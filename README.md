@@ -5,7 +5,7 @@
 </div>
 
   <div style="display: flex; text-wrap: nowrap; align-items: center; justify-content: space-between; font-weight:600; border-bottom: 3px solid #242424;border-top: 3px solid #242424; padding-bottom:0.8em; padding-top:0.8em; ">
-      <a href="#cilj" style="font-size:sm;">CILJ</a>
+      <a href="#cilj" style="font-size:12px;">CILJ</a>
       <span style="font-size:sm;">-</span>
       <a href="#funkcije" style="font-size:sm;">FUNKCIJE</a>
       <span style="font-size:sm;">-</span>
