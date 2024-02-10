@@ -1,4 +1,7 @@
 <body style="background-color: #121212; color: #F0F0F0"></body>
+
+- [ ] Mercury
+
 <div align="center">
       <h1 style="color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</h1>
 </div>
@@ -128,11 +131,14 @@
 <h1 align="center"><code>📝 PLAN RAZVOJA 📝</code></h1>
  
 ### 1. FAZA: PLANIRANJE
-   - Definiranje ciljeva i svrhe aplikacije:
-     - [x] Identificiranje osnovnih funkcionalnosti i ciljeva aplikacije. √
+   - Definiranje ciljeva i svrhe aplikacije: 
+   
+    Identificiranje osnovnih funkcionalnosti i ciljeva aplikacije. ☑️
+
    - Analiza zahtjeva:
-     - [x] Identificiranje sve tehničke i funkcionalne zahtjeve aplikacije. √
-     - [x] Razgovar s budućim korisnicima kako bi dobili njihove povratne informacije. √
+   
+    - Identificiranje sve tehničke i funkcionalne zahtjeve aplikacije. ✅
+    - [x] Razgovar s budućim korisnicima kako bi dobili njihove povratne informacije. √
    - Analiza konkurencije:
      - [x] Proučiti slične aplikacije na tržištu i identificiranje njihove snage i slabosti. √
    - Definiranje budžeta i resursa:
