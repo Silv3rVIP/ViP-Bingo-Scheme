@@ -3,8 +3,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-kramdown:
-  input: Kramdown
 include:
   - CONTRIBUTING.md
   - README.md
