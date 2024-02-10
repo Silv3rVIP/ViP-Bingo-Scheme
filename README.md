@@ -82,7 +82,7 @@
 
 <!--- PREDNOSTI PREDNOSTI PREDNOSTI --->
 <a name="prednosti"></a>
-# <p align="center"><code>🌟 PREDNOSTI APLIKACIJE 🌟</code></p>
+<h1 align="center"><code>🌟 PREDNOSTI APLIKACIJE 🌟</code></h1>
 
 ### EFIKASNOST I VREMENSKA UŠTEDA
 - Zamjena tradicionalnih metoda s inovativnom tehnologijom automatskog prepoznavanja slika značajno ubrzava procese kontrole kvaliteta.
@@ -120,7 +120,7 @@
 
 <!--- PLAN PLAN PLAN --->
 <a name="plan"></a>
-# <p align="center"><code>📝 PLAN RAZVOJA 📝</code></p>
+<h1 align="center"><code>📝 PLAN RAZVOJA 📝</code></h1>
  
 ### 1. FAZA: PLANIRANJE
    - Definiranje ciljeva i svrhe aplikacije:
@@ -179,14 +179,14 @@
 
 <!--- FINAL FINAL FINAL --->
 <a name="finalword"></a>
-# <p align="center"><code>🥇 ZAKLJUČAK 🥇</code></p>
+<h1 align="center"><code>🥇 ZAKLJUČAK 🥇</code></h1>
 ### Ova Android aplikacija ima potencijal potpuno transformirati procese kontrole kvaliteta voća i povrća, eliminirati gubitak vremena ismanjiti mogućnost grešaka. Zamjenom tradicionalnih metoda, unaprijedit će ukupno poslovanje i transparentnost u upravljanju zalihama. Korisnici će dobiti alat koji ne samo da će poboljšati njihove trenutačne procese, već će također donijeti učinkovitost i preciznost u radu, omogućujući im da se fokusiraju na ključne aspekte njihovog poslovanja. Ova aplikacija predstavlja budućnost u upravljanju kvalitetom proizvoda u skladištima, donoseći inovaciju i poboljšanja koja će imati dugoročan utjecaj na operativnu učinkovitost.
 
 <br>
   
 <!--- SCREENSHOTS SCREENSHOTS SCREENSHOTS --->
 <a name="screenshots"></a>
-# <p align="center"><code>📸 SCREENSHOTS 📸</code></p><a name="screenshots"></a>
+<h1 align="center"><code>📸 SCREENSHOTS 📸</code></h1>
 
 <!-- HOME SCREEN --->
 <div align="center">
@@ -247,7 +247,7 @@
 
 <!--- AUTOR AUTOR AUTOR --->
 <a name="autor"></a>
-# <p align="center"><code align="center">👨🏻‍💻 AUTOR 👨🏻‍💻</code></p>
+<h1 align="center"><code align="center">👨🏻‍💻 AUTOR 👨🏻‍💻</code></h1>
 
 <h3>
   <a href="https://github.com/Silv3rVIP">
@@ -267,7 +267,7 @@
 
 <!--- LICENCE LICENCE LICENCE --->
 <a name="LICENNCE"></a>
-# <p align="center"><code>🧾 LICENCE 🧾</code></p>
+<h1 align="center"><code>🧾 LICENCE 🧾</code></h1>
 <div align="center">
   
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
