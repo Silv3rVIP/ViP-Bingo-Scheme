@@ -146,9 +146,9 @@
   ✅ - Proučiti slične aplikacije na tržištu i analiza njihovih snaga i slabosti.  
 
 - **Definiranje budžeta i resursa:**  
-  ⬜ - Odrediti financijske resurse, vremenski okvir i timski sastav.
+  ⬜ - Odrediti financijske resurse, vremenski okvir i timski sastav.   
 
-<h2></h2>
+<hr>
 
 ### 2. FAZA: DIZAJN
 
