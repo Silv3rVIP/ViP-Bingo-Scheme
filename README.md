@@ -213,7 +213,7 @@
     <p align="center" style="font-size:1.5em; height: 0.8em">SEARCH + SORTE</p>
   </div>
   <br>
-  <div style="display: flex; justify-content: space-between; flex-direction: row;">
+  <div style="display: flex; justify-content: space-around; flex-direction: row;">
     <img src="readme-assets/KATEGORIJE.jpg" width="400" />
     <img src="readme-assets/SEARCH.jpg" width="400" />
   </div>
