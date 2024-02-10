@@ -1,9 +1,5 @@
 <div align="center">
-    <table>
-      <td>
-      <h1>🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</h1>
-      </td>
-    </table>
+      <h1 style="color:red; font-weight:800;">🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</h1>
 </div>
 
 
