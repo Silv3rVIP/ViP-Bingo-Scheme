@@ -5,17 +5,17 @@
 </div>
 
   <div style="display: flex; align-items: center; justify-content: space-evenly; font-weight:800; border-bottom: 3px solid #242424;border-top: 3px solid #242424; padding-bottom:0.8em; padding-top:0.8em; padding-left: 1em; padding-right: 1em; ">
-      <a href="#cilj" style="font-size:2em">CILJ</a>
+      <a href="#cilj" style="font-size:20%;">CILJ</a>
       <span>|</span>
-      <a href="#funkcije style="font-size:2em"">FUNKCIONALNOST APLIKACIJE</a>
+      <a href="#funkcije style="font-size:20%;">FUNKCIONALNOST APLIKACIJE</a>
       <span>|</span>
-      <a href="#prednosti style="font-size:2em"">PREDNOSTI APLIKACIJE</a>
+      <a href="#prednosti style="font-size:20%;">PREDNOSTI APLIKACIJE</a>
       <span>|</span>
-      <a href="#plan style="font-size:2em"">PLAN RAZVOJA</a>
+      <a href="#plan style="font-size:20%;">PLAN RAZVOJA</a>
       <span>|</span>
-      <a href="#finalword style="font-size:2em"">ZAKLJUČAK</a>
+      <a href="#finalword style="font-size:20%;">ZAKLJUČAK</a>
       <span>|</span>
-      <a href="#screenshots style="font-size:2em"">SCREENSHOTS</a>
+      <a href="#screenshots style="font-size:20%;">SCREENSHOTS</a>
   </div>
 
 <br><br><br><br>
