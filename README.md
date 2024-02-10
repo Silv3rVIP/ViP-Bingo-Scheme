@@ -14,7 +14,9 @@
 
 <br><br><br><br>
 
-<div align="center"><img src="readme-assets/logo.png" width="300"  /></div>
+<div align="center">
+<img src="readme-assets/logo.png" width="300"  />
+</div>
 
 <!--- CILJ CILJ CILJ CILJ CILJ --->
 <a name="cilj"></a>
@@ -186,20 +188,18 @@
 <h1 align="center"><code>📸 SCREENSHOTS 📸</code></h1>
 
 <!-- HOME SCREEN --->
-<div align="center">
-  <table align="center">
-    <tr>
+<div style="display: flex; justify-content: space-around; font-weight:800;">
+  <table>
+      <td><p align="center" style="font-size:1.5em; height: 0.8em">HOME SCREEN 1</p></td>
+      <td><p align="center" style="font-size:1.5em; height: 0.8em">HOME SCREEN 2</p></td>
       <tr>
-          <td><p align="center">HOME SCREEN 1</p></td>
-          <td><p align="center">HOME SCREEN 2</p></td>
-        </tr>
-      <td><img src="readme-assets/HOME-1.jpg" width="400" /></td>
-      <td><img src="readme-assets/HOME-2.jpg" width="400" /></td>
-    </tr>
+        <td><img src="readme-assets/HOME-1.jpg" width="400" /></td>
+        <td><img src="readme-assets/HOME-2.jpg" width="400" /></td>
+      </tr>
   </table>
 </div>
 
-<div style:"justify-content: center" align="center">
+<div style:"justify-content: space-around">
   <table>
     <tr>
       <tr>
