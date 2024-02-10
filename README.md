@@ -1,4 +1,4 @@
-<body style="background-color: #121212">
+<body style="background-color: #121212"></body>
 <div align="center">
       <h1 style="color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</h1>
 </div>
@@ -278,4 +278,3 @@
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 </div>
-</body>
