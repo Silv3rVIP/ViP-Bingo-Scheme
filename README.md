@@ -1,4 +1,4 @@
-<body style="background-color: #121212"></body>
+<body style="background-color: #121212; color: #F0F0F0"></body>
 <div align="center">
       <h1 style="color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</h1>
 </div>
