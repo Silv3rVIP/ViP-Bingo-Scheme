@@ -1,7 +1,14 @@
-<h1 align="center"><table align="center"><td>🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</td></table></h1>
+<table align="center">
+<td>
+<h1 align="center">
+🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒
+</h1>
+</td>
+</table>
 
-<h4 align="center">
-  <table align="center">
+
+<h4 align="justify">
+  <table>
     <tr>
       <tr>
       <td><a href="#cilj"> CILJ </a></td>
