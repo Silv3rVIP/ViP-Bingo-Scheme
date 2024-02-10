@@ -1,6 +1,6 @@
 <body style="background-color: #121212; color: #F0F0F0"></body>
 
-<div align="center" style="display:flex; flex-direction: row; ">
+<div align="center" style="display:flex; flex-direction: row; align-items: center ">
   <span style="font-size:2.8vh; color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">🍒</span>
   <h1 style="font-size:2.8vh; color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">
   PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA
@@ -32,7 +32,7 @@
 <a name="cilj"></a>
 <h1 align="center" style="font-size:3vh; font-weight:900"><code>💡 CILJ 💡</code></h1>
 
-  <h2 align="justify" style="border-bottom: 0px; font-size:large">
+  <h2 align="center" style="border-bottom: 0px; font-size:large">
     Razviti inovativnu Android aplikaciju koja će zamijeniti postojeće procese kontrole kvaliteta voća i povrća u magacinima. Aplikacija će eliminirati gubitak vremena na tradicionalno pisanje u sveske i ručni unos podataka, pružiti preciznu kontrolu kvaliteta te automatizirano praćenje fakturisanih i stvarnih količina.
   </h2>
 <br>
@@ -131,34 +131,34 @@
 
 <!--- PLAN PLAN PLAN --->
 <a name="plan"></a>
-<h1 align="center" style="font-size:3vh; font-weight:900"><code>📝 PLAN RAZVOJA 📝</code></h1>
+<h1 align="center" style="font-size:3vw; font-weight:700;">📝 PLAN RAZVOJA 📝</h1>
  
 ### 1. FAZA: PLANIRANJE
 
-- Definiranje ciljeva i svrhe aplikacije:  
+- **Definiranje ciljeva i svrhe aplikacije:**  
   ✅ - Identificirati osnovne funkcionalnosti i ciljeve aplikacije.
 
-- Analiza zahtjeva:  
+- **Analiza zahtjeva:**  
   ✅ - Identificirati sve tehničke i funkcionalne zahtjeve aplikacije.  
   ✅ - Razgovar s budućim korisnicima kako bi dobili njihove povratne informacije.
 
-- Analiza konkurencije:  
+- **Analiza konkurencije:**  
   ✅ - Proučiti slične aplikacije na tržištu i analiza njihovih snaga i slabosti.  
 
-- Definiranje budžeta i resursa:  
+- **Definiranje budžeta i resursa:**  
   ⬜ - Odrediti financijske resurse, vremenski okvir i timski sastav.
 
 <h2></h2>
 
 ### 2. FAZA: DIZAJN
 
-- Kreiranje wireframe-a:  
+- **Kreiranje wireframe-a:**  
     ✅ - Izraditi osnovni koncept korisničkog sučelja i korisničkog iskustva.
 
-- Dizajniranje baze podataka:  
+- **Dizajniranje baze podataka:**  
     ⬜ - Definiranje strukture baze podataka potrebnu za spremanje podataka o voću, povrću, dobavljačima itd.
 
-- UI/UX dizajn:  
+- **UI/UX dizajn:**  
     ⬜ - Razvijanje vizualnog dizajna aplikacije i korisničko sučelje.  
     ⬜ - Osigurajti intuitivnost i jednostavnost korištenja.  
 
@@ -166,36 +166,36 @@
 
 ### 3. FAZA: IMPLEMENTACIJA
 
-- Razvoj backend-a:  
+- **Razvoj backend-a:**  
     ⬜ - Implementiranje serverske logiku za obradu podataka, autentikaciju i upravljanje bazom podataka.
 
-- Razvoj frontend-a:  
+- **Razvoj frontend-a:**  
     ⬜ - Implementiranje korisničkog sučelje prema dizajnu i wireframe-ima.  
 
-- Integracija funkcionalnosti:  
+- **Integracija funkcionalnosti:**  
     ⬜ - Povezivanje backend i frontend kako bi aplikacija radila kao cjelina.
 
 <h2></h2>
 
 ### 4. FAZA: TESTIRANJE
 
-- Unit testiranje:  
+- **Unit testiranje:**  
     ⬜ - Testiranje svake funkcionalnosti odvojeno kako bi se osigurala ispravnost.
 
-- Integracijsko testiranje:  
+- **Integracijsko testiranje:**  
     ⬜ - Testiranje rada svih dijelova aplikacije zajedno.
 
-- Testiranje korisničkog iskustva:  
+- **Testiranje korisničkog iskustva:**  
     ⬜ - Provjeriti kako korisnici reagiraju na aplikaciju i prikupiti povratne informacije.
 
 <h2></h2>
 
 ### 5. FAZA: PUŠTANJE U RAD
 
-- Finalna revizija:  
+- **Finalna revizija:**  
     ⬜ - Provođenje konačne revizije aplikacije prije puštanja u rad.
 
-- Puštanje u rad:  
+- **Puštanje u rad:**  
     ⬜ - Objaviti aplikaciju na Google Play Store-u ili lokalno ručno instaliranje na uređaje.  
     ⬜ - Osigurati podršku korisnicima i održavanje sustava.
 
@@ -203,19 +203,19 @@
 
 ### 6. FAZA: ODRŽAVANJE
 
-- Nadogradnje i ispravci:  
+- **Nadogradnje i ispravci:**  
     ⬜ - Pratiti povratne informacije korisnika i ažuriranje aplikacije prema potrebi.
 
-- Praćenje performansi:  
+- **Praćenje performansi:**  
     ⬜ - Redovito pratiti performanse sustava i optimizirati ih prema potrebi.
 
 <br>
 
 <!--- FINAL FINAL FINAL --->
 <a name="finalword"></a>
-<h1 align="center" style="font-size:3vh; font-weight:900"><code>🥇 ZAKLJUČAK 🥇</code></h1>
+<h1 align="center" style="font-size:3vw; font-weight:700;">🥇 ZAKLJUČAK 🥇</h1>
 
-<h2 align="justify" style="border-bottom: 0px;">
+<h2 align="center" style="border-bottom: 0px; font-size:large">
  Ova Android aplikacija ima potencijal potpuno transformirati procese kontrole kvaliteta voća i povrća, eliminirati gubitak vremena i smanjiti mogućnost grešaka. Zamjenom tradicionalnih metoda, unaprijedit će ukupno poslovanje i transparentnost u upravljanju zalihama. Korisnici će dobiti alat koji ne samo da će poboljšati njihove trenutačne procese, već će također donijeti učinkovitost i preciznost u radu, omogućujući im da se fokusiraju na ključne aspekte njihovog poslovanja. Ova aplikacija predstavlja budućnost u upravljanju kvalitetom proizvoda u skladištima, donoseći inovaciju i poboljšanja koja će imati dugoročan utjecaj na operativnu učinkovitost.
 </h2>
 
