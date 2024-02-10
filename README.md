@@ -1,21 +1,21 @@
-<h1><div align="center"><table align="center"><td>🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</td></table></div></h1>
+<h1 align="center"><table align="center"><td>🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</td></table></h1>
 
-
-<table align="center">
-<h4>
-  <tr>
+<h4 align="center">
+  <table align="center">
     <tr>
-    <td><a href="#cilj"> CILJ </a></td>
-    <td><a href="#funkcije"> FUNKCIONALNOST APLIKACIJE </a> </td>
-    <td><a href="#prednosti"> PREDNOSTI APLIKACIJE </a></td>
-    <td><a href="#plan"> PLAN RAZVOJA </a></td>
-    <td><a href="#finalword"> ZAKLJUČAK </a></td>
-    <td><a href="#screenshots"> SCREENSHOTS </a> </td>
+      <tr>
+      <td><a href="#cilj"> CILJ </a></td>
+      <td><a href="#funkcije"> FUNKCIONALNOST APLIKACIJE </a> </td>
+      <td><a href="#prednosti"> PREDNOSTI APLIKACIJE </a></td>
+      <td><a href="#plan"> PLAN RAZVOJA </a></td>
+      <td><a href="#finalword"> ZAKLJUČAK </a></td>
+      <td><a href="#screenshots"> SCREENSHOTS </a> </td>
+        </tr>
       </tr>
-    </tr>
-    </h4>
-</table>
-<br><br><br><br>
+  </table>
+</h4>
+
+<br><br>
 
 <div align="center"><img src="readme-assets/logo.png" width="300"  /></div>
 
