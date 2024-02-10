@@ -1,8 +1,8 @@
-<body style="background-color: #242424; color: #F0F0F0"></body>
+<body style="background-color: #121212; color: #F0F0F0"></body>
 
-<div align="center" style="display:flex; flex-direction: row; align-items: center ">
-  <span style="font-size:2.8vh; color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0; padding-right: 1%"> 🍒 </span>
-  <h1 style="font-size:2.5vh; color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">
+<div align="center" style="display:flex; flex-direction: row; align-items: center; justify-content: space-between; align-content: center;">
+  <span align="center" style="font-size:2.8vh; color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0; padding-right: 1%"> 🍒 </span>
+  <h1 align="center" style="font-size:2.5vh; color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">
    PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 
   </h1>
   <span style="font-size:2.8vh; color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;padding-left: 1%"> 🍒 </span>      
