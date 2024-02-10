@@ -161,7 +161,7 @@
     ⬜ - Razvijanje vizualnog dizajna aplikacije i korisničko sučelje.
     ⬜ - Osigurajti intuitivnost i jednostavnost korištenja.
 
-<h2>
+<h2></h2>
 
 ### 3. FAZA: IMPLEMENTACIJA
 - Razvoj backend-a:
@@ -176,7 +176,7 @@
 
     ⬜ - Povezivanje backend i frontend kako bi aplikacija radila kao cjelina.
 
-<h2>
+<h2></h2>
 
 ### 4. FAZA: TESTIRANJE
 - Unit testiranje:
@@ -191,7 +191,7 @@
 
     ⬜ - Provjeriti kako korisnici reagiraju na aplikaciju i prikupiti povratne informacije.
 
-<h2>
+<h2></h2>
 
 ### 5. FAZA: PUŠTANJE U RAD
 - Finalna revizija:
@@ -203,7 +203,7 @@
     ⬜ - Objaviti aplikaciju na Google Play Store-u ili lokalno ručno instaliranje na uređaje.
     ⬜ - Osigurati podršku korisnicima i održavanje sustava.
 
-<h2>
+<h2></h2>
 
 ### 6. FAZA: ODRŽAVANJE
 - Nadogradnje i ispravci:
