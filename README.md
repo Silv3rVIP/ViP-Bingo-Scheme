@@ -30,7 +30,7 @@
 
 <!--- CILJ CILJ CILJ CILJ CILJ --->
 <a name="cilj"></a>
-<h1 align="center" style="font-size:3vw; font-weight:700;">💡 CILJ 💡</h1>
+<h1 align="center" style="font-size:3vh; font-weight:700;">💡 CILJ 💡</h1>
 
   <h2 align="center" style="border-bottom: 0px; font-size:large">
     Razviti inovativnu Android aplikaciju koja će zamijeniti postojeće procese kontrole kvaliteta voća i povrća u magacinima. Aplikacija će eliminirati gubitak vremena na tradicionalno pisanje u sveske i ručni unos podataka, pružiti preciznu kontrolu kvaliteta te automatizirano praćenje fakturisanih i stvarnih količina.
@@ -39,7 +39,7 @@
 
 <!--- FUNKCIJE FUNKCIJE FUNKCIJE --->
 <a name="funkcije"></a>
-<h1 align="center" style="font-size:3vw; font-weight:700;">⚙️ FUNKCIONALNOST ⚙️</h1>
+<h1 align="center" style="font-size:3vh; font-weight:700;">⚙️ FUNKCIONALNOST ⚙️</h1>
 
 ### POČETNI ZASLON
 - Po otvaranju aplikacije, korisnik će biti dočekan početnim zaslonom.
@@ -93,7 +93,7 @@
 
 <!--- PREDNOSTI PREDNOSTI PREDNOSTI --->
 <a name="prednosti"></a>
-<h1 align="center" style="font-size:3vw; font-weight:700;">🌟 PREDNOSTI 🌟</h1>
+<h1 align="center" style="font-size:3vh; font-weight:700;">🌟 PREDNOSTI 🌟</h1>
 
 ### EFIKASNOST I VREMENSKA UŠTEDA
 - Zamjena tradicionalnih metoda s inovativnom tehnologijom automatskog prepoznavanja slika značajno ubrzava procese kontrole kvaliteta.
@@ -131,7 +131,7 @@
 
 <!--- PLAN PLAN PLAN --->
 <a name="plan"></a>
-<h1 align="center" style="font-size:3vw; font-weight:700;">📝 PLAN RAZVOJA 📝</h1>
+<h1 align="center" style="font-size:3vh; font-weight:700;">📝 PLAN RAZVOJA 📝</h1>
  
 ### 1. FAZA: PLANIRANJE
 
@@ -213,7 +213,7 @@
 
 <!--- FINAL FINAL FINAL --->
 <a name="finalword"></a>
-<h1 align="center" style="font-size:3vw; font-weight:700;">🥇 ZAKLJUČAK 🥇</h1>
+<h1 align="center" style="font-size:3vh; font-weight:700;">🥇 ZAKLJUČAK 🥇</h1>
 
 <h2 align="center" style="border-bottom: 0px; font-size:large">
  Ova Android aplikacija ima potencijal potpuno transformirati procese kontrole kvaliteta voća i povrća, eliminirati gubitak vremena i smanjiti mogućnost grešaka. Zamjenom tradicionalnih metoda, unaprijedit će ukupno poslovanje i transparentnost u upravljanju zalihama. Korisnici će dobiti alat koji ne samo da će poboljšati njihove trenutačne procese, već će također donijeti učinkovitost i preciznost u radu, omogućujući im da se fokusiraju na ključne aspekte njihovog poslovanja. Ova aplikacija predstavlja budućnost u upravljanju kvalitetom proizvoda u skladištima, donoseći inovaciju i poboljšanja koja će imati dugoročan utjecaj na operativnu učinkovitost.
@@ -278,7 +278,7 @@
 
 <!--- AUTOR AUTOR AUTOR --->
 <a name="autor"></a>
-<h1 align="center" style="font-size:3vw; font-weight:700;">👨🏻‍💻 AUTOR 👨🏻‍💻</h1>
+<h1 align="center" style="font-size:3vh; font-weight:700;">👨🏻‍💻 AUTOR 👨🏻‍💻</h1>
 
 <div align="center">
 <a href="https://github.com/Silv3rVIP" style="font-size:2.5vh; font-weight:800">Silvio  Suljić</a>
@@ -289,7 +289,7 @@
 <!--- LICENCE LICENCE LICENCE --->
 
 <a name="LICENNCE"></a>
-<h1 align="center" style="font-size:3vw; font-weight:700;">🧾 LICENCE 🧾</h1>
+<h1 align="center" style="font-size:3vh; font-weight:700;">🧾 LICENCE 🧾</h1>
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
