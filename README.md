@@ -1,8 +1,8 @@
-<body style="background-color: #121212; color: #F0F0F0"></body>
+<body style="background-color: #242424; color: #F0F0F0"></body>
 
 <div align="center" style="display:flex; flex-direction: row; align-items: center ">
   <span style="font-size:2.8vh; color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">🍒</span>
-  <h1 style="font-size:2.8vh; color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">
+  <h1 style="font-size:2.5vh; color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">
   PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA
   </h1>
   <span style="font-size:2.8vh; color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">🍒</span>      
@@ -10,15 +10,15 @@
 
   <div style="display: flex; flex-wrap: wrap; overflow-wrap: break-word; align-items: center; justify-content: space-between; font-weight:800; font-size:1.5vh; border-bottom: 3px solid #242424;border-top: 3px solid #242424; padding-bottom:0.8em; padding-top:0.8em; ">
       <a href="#cilj">CILJ</a>
-      <span>-</span>
+      <span>|</span>
       <a href="#funkcije">FUNKCIJE</a>
-      <span>-</span>
+      <span>|</span>
       <a href="#prednosti">PREDNOSTI</a>
-      <span>-</span>
+      <span>|</span>
       <a href="#plan">PLAN</a>
-      <span>-</span>
+      <span>|</span>
       <a href="#finalword">ZAKLJUČAK</a>
-      <span>-</span>
+      <span>|</span>
       <a href="#screenshots">SCREENS</a>
   </div>
 
@@ -30,7 +30,7 @@
 
 <!--- CILJ CILJ CILJ CILJ CILJ --->
 <a name="cilj"></a>
-<h1 align="center" style="font-size:3vh; font-weight:900"><code>💡 CILJ 💡</code></h1>
+<h1 align="center" style="font-size:3vw; font-weight:700;">💡 CILJ 💡</h1>
 
   <h2 align="center" style="border-bottom: 0px; font-size:large">
     Razviti inovativnu Android aplikaciju koja će zamijeniti postojeće procese kontrole kvaliteta voća i povrća u magacinima. Aplikacija će eliminirati gubitak vremena na tradicionalno pisanje u sveske i ručni unos podataka, pružiti preciznu kontrolu kvaliteta te automatizirano praćenje fakturisanih i stvarnih količina.
@@ -39,7 +39,7 @@
 
 <!--- FUNKCIJE FUNKCIJE FUNKCIJE --->
 <a name="funkcije"></a>
-<h1 align="center" style="font-size:3vh; font-weight:900"><code>⚙️ FUNKCIONALNOST ⚙️</code></h1>
+<h1 align="center" style="font-size:3vw; font-weight:700;">⚙️ FUNKCIONALNOST ⚙️</h1>
 
 ### POČETNI ZASLON
 - Po otvaranju aplikacije, korisnik će biti dočekan početnim zaslonom.
@@ -93,7 +93,7 @@
 
 <!--- PREDNOSTI PREDNOSTI PREDNOSTI --->
 <a name="prednosti"></a>
-<h1 align="center" style="font-size:3vh; font-weight:900"><code>🌟 PREDNOSTI 🌟</code></h1>
+<h1 align="center" style="font-size:3vw; font-weight:700;">🌟 PREDNOSTI 🌟</h1>
 
 ### EFIKASNOST I VREMENSKA UŠTEDA
 - Zamjena tradicionalnih metoda s inovativnom tehnologijom automatskog prepoznavanja slika značajno ubrzava procese kontrole kvaliteta.
@@ -148,7 +148,7 @@
 - **Definiranje budžeta i resursa:**  
   ⬜ - Odrediti financijske resurse, vremenski okvir i timski sastav.   
 
-<hr>
+<hr style="height:0.1em">
 
 ### 2. FAZA: DIZAJN
 
@@ -162,7 +162,7 @@
     ⬜ - Razvijanje vizualnog dizajna aplikacije i korisničko sučelje.  
     ⬜ - Osigurajti intuitivnost i jednostavnost korištenja.  
 
-<h2></h2>
+<hr style="height:0.1em">
 
 ### 3. FAZA: IMPLEMENTACIJA
 
@@ -175,7 +175,7 @@
 - **Integracija funkcionalnosti:**  
     ⬜ - Povezivanje backend i frontend kako bi aplikacija radila kao cjelina.
 
-<h2></h2>
+<hr style="height:0.1em">
 
 ### 4. FAZA: TESTIRANJE
 
@@ -188,7 +188,7 @@
 - **Testiranje korisničkog iskustva:**  
     ⬜ - Provjeriti kako korisnici reagiraju na aplikaciju i prikupiti povratne informacije.
 
-<h2></h2>
+<hr style="height:0.1em">
 
 ### 5. FAZA: PUŠTANJE U RAD
 
@@ -199,7 +199,7 @@
     ⬜ - Objaviti aplikaciju na Google Play Store-u ili lokalno ručno instaliranje na uređaje.  
     ⬜ - Osigurati podršku korisnicima i održavanje sustava.
 
-<h2></h2>
+<hr style="height:0.1em">
 
 ### 6. FAZA: ODRŽAVANJE
 
@@ -223,7 +223,7 @@
   
 <!--- SCREENSHOTS SCREENSHOTS SCREENSHOTS --->
 <a name="screenshots"></a>
-<h1 align="center" style="font-size:3vh; font-weight:900"><code>📸 SCREENSHOTS 📸</code></h1>
+<h1 align="center" style="font-size:3vw; font-weight:700;">📸 SCREENSHOTS 📸</h1>
 
 <!-- HOME SCREEN --->
 <div style="display: flex; flex-direction:column; font-weight:800;">
@@ -278,7 +278,7 @@
 
 <!--- AUTOR AUTOR AUTOR --->
 <a name="autor"></a>
-<h1 align="center" style="font-size:3vh; font-weight:900"><code align="center">👨🏻‍💻 AUTOR 👨🏻‍💻</code></h1>
+<h1 align="center" style="font-size:3vw; font-weight:700;">👨🏻‍💻 AUTOR 👨🏻‍💻</h1>
 
 <div align="center">
 <a href="https://github.com/Silv3rVIP" style="font-size:2.5vh; font-weight:800">Silvio  Suljić</a>
@@ -289,7 +289,7 @@
 <!--- LICENCE LICENCE LICENCE --->
 
 <a name="LICENNCE"></a>
-<h1 align="center" style="font-size:3vh; font-weight:900" align="center"><code>🧾 LICENCE 🧾</code></h1>
+<h1 align="center" style="font-size:3vw; font-weight:700;">🧾 LICENCE 🧾</h1>
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
