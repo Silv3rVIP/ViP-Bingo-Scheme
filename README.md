@@ -1,8 +1,9 @@
 <div align="center">
-      <h1 style="color:red; font-weight:800;">🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</h1>
+      <h1 style="color:red; font-weight:800; border-bottom: 2px solid #000000;">🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</h1>
 </div>
 
-  <div style="display: flex; justify-content: space-between;">
+
+  <div style="display: flex; justify-content: space-between; font-weight:800">
       <a href="#cilj"> CILJ </a>
       <a href="#funkcije"> FUNKCIONALNOST APLIKACIJE </a>
       <a href="#prednosti"> PREDNOSTI APLIKACIJE </a>
@@ -11,7 +12,7 @@
       <a href="#screenshots"> SCREENSHOTS </a>
   </div>
 
-<br><br>
+<br><br><br><br>
 
 <div align="center"><img src="readme-assets/logo.png" width="300"  /></div>
 
@@ -198,7 +199,7 @@
   </table>
 </div>
 
-<div align="center">
+<div style:"justify-content: center" align="center">
   <table>
     <tr>
       <tr>
