@@ -26,14 +26,14 @@
 
 <!--- CILJ CILJ CILJ CILJ CILJ --->
 <a name="cilj"></a>
-<h1 align="center"><code>💡 CILJ 💡</code></h1>
+<h1 align="center" style="font-size:2.5vh; font-weight:900"><code>💡 CILJ 💡</code></h1>
 
 ### Razviti inovativnu Android aplikaciju koja će zamijeniti postojeće procese kontrole kvaliteta voća i povrća u magacinima. Aplikacija će eliminirati gubitak vremena na tradicionalno pisanje u sveske i ručni unos podataka, pružiti preciznu kontrolu kvaliteta te automatizirano praćenje fakturisanih i stvarnih količina.
 <br>
 
 <!--- FUNKCIJE FUNKCIJE FUNKCIJE --->
 <a name="funkcije"></a>
-<h1 align="center"><code>⚙️ FUNKCIONALNOST APLIKACIJE ⚙️</code></h1>
+<h1 align="center" style="font-size:2.5vh; font-weight:900"><code>⚙️ FUNKCIONALNOST ⚙️</code></h1>
 
 ### POČETNI ZASLON
 - Po otvaranju aplikacije, korisnik će biti dočekan početnim zaslonom.
@@ -87,7 +87,7 @@
 
 <!--- PREDNOSTI PREDNOSTI PREDNOSTI --->
 <a name="prednosti"></a>
-<h1 align="center"><code>🌟 PREDNOSTI APLIKACIJE 🌟</code></h1>
+<h1 align="center" style="font-size:3vh; font-weight:900"><code>🌟 PREDNOSTI 🌟</code></h1>
 
 ### EFIKASNOST I VREMENSKA UŠTEDA
 - Zamjena tradicionalnih metoda s inovativnom tehnologijom automatskog prepoznavanja slika značajno ubrzava procese kontrole kvaliteta.
@@ -125,100 +125,89 @@
 
 <!--- PLAN PLAN PLAN --->
 <a name="plan"></a>
-<h1 align="center"><code>📝 PLAN RAZVOJA 📝</code></h1>
+<h1 align="center" style="font-size:3vh; font-weight:900"><code>📝 PLAN RAZVOJA 📝</code></h1>
  
 ### 1. FAZA: PLANIRANJE
-- Definiranje ciljeva i svrhe aplikacije:   
 
-  ✅ - Identificiranje osnovnih funkcionalnosti i ciljeva aplikacije.
+- Definiranje ciljeva i svrhe aplikacije:  
+  ✅ - Identificirati osnovne funkcionalnosti i ciljeve aplikacije.
 
-- Analiza zahtjeva:
-
-  ✅ - Identificiranje sve tehničke i funkcionalne zahtjeve aplikacije.
-
+- Analiza zahtjeva:  
+  ✅ - Identificirati sve tehničke i funkcionalne zahtjeve aplikacije.  
   ✅ - Razgovar s budućim korisnicima kako bi dobili njihove povratne informacije.
+
 - Analiza konkurencije:  
+  ✅ - Proučiti slične aplikacije na tržištu i analiza njihovih snaga i slabosti.  
 
-  ✅ - Proučiti slične aplikacije na tržištu i identificiranje njihove snage i slabosti.
-
-- Definiranje budžeta i resursa:
-
+- Definiranje budžeta i resursa:  
   ⬜ - Odrediti financijske resurse, vremenski okvir i timski sastav.
 
 <h2></h2>
 
 ### 2. FAZA: DIZAJN
-- Kreiranje wireframe-a:
-   
+
+- Kreiranje wireframe-a:  
     ✅ - Izraditi osnovni koncept korisničkog sučelja i korisničkog iskustva.
 
-- Dizajniranje baze podataka:
-
+- Dizajniranje baze podataka:  
     ⬜ - Definiranje strukture baze podataka potrebnu za spremanje podataka o voću, povrću, dobavljačima itd.
 
-- UI/UX dizajn:
-
-    ⬜ - Razvijanje vizualnog dizajna aplikacije i korisničko sučelje.
-    ⬜ - Osigurajti intuitivnost i jednostavnost korištenja.
+- UI/UX dizajn:  
+    ⬜ - Razvijanje vizualnog dizajna aplikacije i korisničko sučelje.  
+    ⬜ - Osigurajti intuitivnost i jednostavnost korištenja.  
 
 <h2></h2>
 
 ### 3. FAZA: IMPLEMENTACIJA
-- Razvoj backend-a:
 
+- Razvoj backend-a:  
     ⬜ - Implementiranje serverske logiku za obradu podataka, autentikaciju i upravljanje bazom podataka.
 
-- Razvoj frontend-a:
+- Razvoj frontend-a:  
+    ⬜ - Implementiranje korisničkog sučelje prema dizajnu i wireframe-ima.  
 
-    ⬜ - Implementiranje korisničkog sučelje prema dizajnu i wireframe-ima.
-
-- Integracija funkcionalnosti:
-
+- Integracija funkcionalnosti:  
     ⬜ - Povezivanje backend i frontend kako bi aplikacija radila kao cjelina.
 
 <h2></h2>
 
 ### 4. FAZA: TESTIRANJE
-- Unit testiranje:
 
+- Unit testiranje:  
     ⬜ - Testiranje svake funkcionalnosti odvojeno kako bi se osigurala ispravnost.
 
-- Integracijsko testiranje:
-
+- Integracijsko testiranje:  
     ⬜ - Testiranje rada svih dijelova aplikacije zajedno.
 
-- Testiranje korisničkog iskustva:
-
+- Testiranje korisničkog iskustva:  
     ⬜ - Provjeriti kako korisnici reagiraju na aplikaciju i prikupiti povratne informacije.
 
 <h2></h2>
 
 ### 5. FAZA: PUŠTANJE U RAD
-- Finalna revizija:
 
+- Finalna revizija:  
     ⬜ - Provođenje konačne revizije aplikacije prije puštanja u rad.
 
-- Puštanje u rad:
-
-    ⬜ - Objaviti aplikaciju na Google Play Store-u ili lokalno ručno instaliranje na uređaje.
+- Puštanje u rad:  
+    ⬜ - Objaviti aplikaciju na Google Play Store-u ili lokalno ručno instaliranje na uređaje.  
     ⬜ - Osigurati podršku korisnicima i održavanje sustava.
 
 <h2></h2>
 
 ### 6. FAZA: ODRŽAVANJE
-- Nadogradnje i ispravci:
 
+- Nadogradnje i ispravci:  
     ⬜ - Pratiti povratne informacije korisnika i ažuriranje aplikacije prema potrebi.
 
-- Praćenje performansi:
-
+- Praćenje performansi:  
     ⬜ - Redovito pratiti performanse sustava i optimizirati ih prema potrebi.
 
 <br>
 
 <!--- FINAL FINAL FINAL --->
 <a name="finalword"></a>
-<h1 align="center"><code>🥇 ZAKLJUČAK 🥇</code></h1>
+<h1 align="center" style="font-size:3vh; font-weight:900"><code>🥇 ZAKLJUČAK 🥇</code></h1>
 
 ### Ova Android aplikacija ima potencijal potpuno transformirati procese kontrole kvaliteta voća i povrća, eliminirati gubitak vremena ismanjiti mogućnost grešaka. Zamjenom tradicionalnih metoda, unaprijedit će ukupno poslovanje i transparentnost u upravljanju zalihama. Korisnici će dobiti alat koji ne samo da će poboljšati njihove trenutačne procese, već će također donijeti učinkovitost i preciznost u radu, omogućujući im da se fokusiraju na ključne aspekte njihovog poslovanja. Ova aplikacija predstavlja budućnost u upravljanju kvalitetom proizvoda u skladištima, donoseći inovaciju i poboljšanja koja će imati dugoročan utjecaj na operativnu učinkovitost.
 
@@ -226,51 +215,51 @@
   
 <!--- SCREENSHOTS SCREENSHOTS SCREENSHOTS --->
 <a name="screenshots"></a>
-<h1 align="center"><code>📸 SCREENSHOTS 📸</code></h1>
+<h1 align="center" style="font-size:3vh; font-weight:900"><code>📸 SCREENSHOTS 📸</code></h1>
 
 <!-- HOME SCREEN --->
 <div style="display: flex; flex-direction:column; font-weight:800;">
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
-    <p align="center" style="font-size:1.5em; height: 0.8em">HOME SCREEN 1</p>
-    <p align="center" style="font-size:1.5em; height: 0.8em">HOME SCREEN 2</p>
+    <p align="center" style="font-size:2.5vw; margin-bottom: 0">HOME SCREEN 1</p>
+    <p align="center" style="font-size:2.5vw; margin-bottom: 0">HOME SCREEN 2</p>
   </div>
-  <br>
+  <p></p>
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
     <img src="readme-assets/HOME-1.jpg" width="45%" />
     <img src="readme-assets/HOME-2.jpg" width="45%" />
   </div>
 </div>
-<br><br>
+<br>
 <div style="display: flex; flex-direction:column; font-weight:800;">
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
-    <p align="center" style="font-size:1.5em; height: 0.8em">KATEGORIJE</p>
-    <p align="center" style="font-size:1.5em; height: 0.8em">SEARCH + SORTE</p>
+    <p align="center" style="font-size:2.5vw; margin-bottom: 0;">KATEGORIJE</p>
+    <p align="center" style="font-size:2.5vw; margin-bottom: 0">SEARCH + SORTE</p>
   </div>
-  <br>
+    <p></p>
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
     <img src="readme-assets/KATEGORIJE.jpg" width="45%" />
     <img src="readme-assets/SEARCH.jpg" width="45%" />
   </div>
 </div>
-<br><br>
+<br>
 <div style="display: flex; flex-direction:column; font-weight:800;">
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
-    <p align="center" style="font-size:1.5em; height: 0.8em">DETALJI ARTIKLA-SORTE 1/2</p>
-    <p align="center" style="font-size:1.5em; height: 0.8em">DETALJI ARTIKLA-SORTE 2/2</p>
+    <p align="center" style="font-size:2.5vw; margin-bottom: 0">DETALJI ARTIKLA-SORTE 1/2</p>
+    <p align="center" style="font-size:2.5vw; margin-bottom: 0">DETALJI ARTIKLA-SORTE 2/2</p>
   </div>
-  <br>
+    <p></p>
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
     <img src="readme-assets/DETALJI-1.jpg" width="45%" />
     <img src="readme-assets/DETALJI-2.jpg" width="45%" />
   </div>
 </div>
-<br><br>
+<br>
 <div style="display: flex; flex-direction:column; font-weight:800;">
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
-    <p align="center" style="font-size:1.5em; height: 0.8em">NAJAVLJENE ISPORUKE</p>
-    <p align="center" style="font-size:1.5em; height: 0.8em">DETALJI NAJAVE</p>
+    <p style="font-size:2.5vw; margin-bottom: 0">NAJAVLJENE ISPORUKE</p>
+    <p style="font-size:2.5vw; margin-bottom: 0">DETALJI NAJAVE</p>
   </div>
-  <br>
+    <p></p>
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
     <img src="readme-assets/NAJAVA.jpg" width="45%" />
     <img src="readme-assets/NAJAVA-DETALJI.jpg" width="45%" />
