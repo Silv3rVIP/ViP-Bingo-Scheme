@@ -208,16 +208,16 @@
 </div>
 <br><br>
 <div style="display: flex; flex-direction:column; font-weight:800;">
-  <div style="display: flex; justify-content: space-around; flex-direction: row;">
+  <div style="display: flex; justify-content: space-between; flex-direction: row;">
     <p align="center" style="font-size:1.5em; height: 0.8em">KATEGORIJE</p>
     <p align="center" style="font-size:1.5em; height: 0.8em">SORTE</p>
     <p align="center" style="font-size:1.5em; height: 0.8em">SORTE + SEARCH</p>
   </div>
   <br>
-  <div style="display: flex; justify-content: space-around; flex-direction: row;">
-    <img src="readme-assets/KATEGORIJE.jpg" width="400" />
-    <img src="readme-assets/SORTE.jpg" width="400" />
-    <img src="readme-assets/SEARCH.jpg" width="400" />
+  <div style="display: flex; justify-content: space-between; flex-direction: row;">
+    <img src="readme-assets/KATEGORIJE.jpg" width="350" />
+    <img src="readme-assets/SORTE.jpg" width="350" />
+    <img src="readme-assets/SEARCH.jpg" width="350" />
   </div>
 </div>
 <br><br>
@@ -258,12 +258,10 @@
 <br>
 
 <!--- LICENCE LICENCE LICENCE --->
+
 <a name="LICENNCE"></a>
 <h1 align="center"><code>🧾 LICENCE 🧾</code></h1>
-<div align="center">
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
-</div>
