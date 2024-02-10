@@ -1,7 +1,13 @@
 <body style="background-color: #121212; color: #F0F0F0"></body>
 
-<div align="center">
-      <h1 style="font-size:2.8vh; color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</h1>
+<div align="center" style="display:flex; flex-direction: row; ">
+  <span style="font-size:2.8vh; color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">🍒</span>
+  <h1 style="font-size:2.8vh; color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">
+  PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA
+  </h1>
+  <span style="font-size:2.8vh; color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">🍒</span>
+</h1>
+      
 </div>
 
   <div style="display: flex; flex-wrap: wrap; overflow-wrap: break-word; align-items: center; justify-content: space-between; font-weight:800; font-size:1.5vh; border-bottom: 3px solid #242424;border-top: 3px solid #242424; padding-bottom:0.8em; padding-top:0.8em; ">
