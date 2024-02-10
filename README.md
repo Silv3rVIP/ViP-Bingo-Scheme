@@ -32,9 +32,9 @@
 <a name="cilj"></a>
 <h1 align="center" style="font-size:3vh; font-weight:700;">💡 CILJ 💡</h1>
 
-  <h2 align="center" style="border-bottom: 0px; font-size:large">
+  <span align="center" style="border-bottom: 0px; font-size:large">
     Razviti inovativnu Android aplikaciju koja će zamijeniti postojeće procese kontrole kvaliteta voća i povrća u magacinima. Aplikacija će eliminirati gubitak vremena na tradicionalno pisanje u sveske i ručni unos podataka, pružiti preciznu kontrolu kvaliteta te automatizirano praćenje fakturisanih i stvarnih količina.
-  </h2>
+  </span>
 <br>
 
 <!--- FUNKCIJE FUNKCIJE FUNKCIJE --->
@@ -215,15 +215,15 @@
 <a name="finalword"></a>
 <h1 align="center" style="font-size:3vh; font-weight:700;">🥇 ZAKLJUČAK 🥇</h1>
 
-<h2 align="center" style="border-bottom: 0px; font-size:large">
+<span align="center" style="border-bottom: 0px; font-size:large">
  Ova Android aplikacija ima potencijal potpuno transformirati procese kontrole kvaliteta voća i povrća, eliminirati gubitak vremena i smanjiti mogućnost grešaka. Zamjenom tradicionalnih metoda, unaprijedit će ukupno poslovanje i transparentnost u upravljanju zalihama. Korisnici će dobiti alat koji ne samo da će poboljšati njihove trenutačne procese, već će također donijeti učinkovitost i preciznost u radu, omogućujući im da se fokusiraju na ključne aspekte njihovog poslovanja. Ova aplikacija predstavlja budućnost u upravljanju kvalitetom proizvoda u skladištima, donoseći inovaciju i poboljšanja koja će imati dugoročan utjecaj na operativnu učinkovitost.
-</h2>
+</span>
 
 <br>
   
 <!--- SCREENSHOTS SCREENSHOTS SCREENSHOTS --->
 <a name="screenshots"></a>
-<h1 align="center" style="font-size:3vw; font-weight:700;">📸 SCREENSHOTS 📸</h1>
+<h1 align="center" style="font-size:3vh; font-weight:700;">📸 SCREENSHOTS 📸</h1>
 
 <!-- HOME SCREEN --->
 <div style="display: flex; flex-direction:column; font-weight:800;">
