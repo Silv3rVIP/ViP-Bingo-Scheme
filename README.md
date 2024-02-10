@@ -1,5 +1,6 @@
+<body style="background-color: #121212">
 <div align="center">
-      <h1 style="color:red; font-weight:800; border-bottom: 0px solid #242424;">🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</h1>
+      <h1 style="color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</h1>
 </div>
 
 
@@ -193,18 +194,19 @@
 <h1 align="center"><code>📸 SCREENSHOTS 📸</code></h1>
 
 <!-- HOME SCREEN --->
-<div style="display: flex; justify-content: space-around; font-weight:800;">
-  <table>
-      <td><p align="center" style="font-size:1.5em; height: 0.8em">HOME SCREEN 1</p></td>
-      <td><p align="center" style="font-size:1.5em; height: 0.8em">HOME SCREEN 2</p></td>
-      <tr>
-        <td><img src="readme-assets/HOME-1.jpg" width="400" /></td>
-        <td><img src="readme-assets/HOME-2.jpg" width="400" /></td>
-      </tr>
-  </table>
+<div style="display: flex; flex-direction:column; font-weight:800;">
+  <div style="display: flex; justify-content: space-around; flex-direction: row;">
+    <p align="center" style="font-size:1.5em; height: 0.8em">HOME SCREEN 1</p>
+    <p align="center" style="font-size:1.5em; height: 0.8em">HOME SCREEN 2</p>
+  </div>
+  <br>
+  <div style="display: flex; justify-content: space-around; flex-direction: row;">
+    <img src="readme-assets/HOME-1.jpg" width="400" />
+    <img src="readme-assets/HOME-2.jpg" width="400" />
+  </div>
 </div>
 
-<div style:"justify-content: space-around">
+<div style="display:flex; justify-content: space-around">
   <table>
     <tr>
       <tr>
@@ -276,3 +278,4 @@
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 </div>
+</body>
