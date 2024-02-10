@@ -4,18 +4,18 @@
       <h1 style="color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</h1>
 </div>
 
-  <div style="display: flex; text-wrap: nowrap; align-items: center; justify-content: space-between; font-weight:600; border-bottom: 3px solid #242424;border-top: 3px solid #242424; padding-bottom:0.8em; padding-top:0.8em; ">
-      <a href="#cilj" style="font-size:12px;">CILJ</a>
-      <span style="font-size:sm;">-</span>
-      <a href="#funkcije" style="font-size:sm;">FUNKCIJE</a>
-      <span style="font-size:sm;">-</span>
-      <a href="#prednosti" style="font-size:sm;">PREDNOSTI</a>
-      <span style="font-size:sm;">-</span>
-      <a href="#plan" style="font-size:sm;">PLAN</a>
-      <span style="font-size:sm;">-</span>
-      <a href="#finalword" style="font-size:sm;">ZAKLJUČAK</a>
-      <span style="font-size:sm;">-</span>
-      <a href="#screenshots" style="font-size:sm;">SCREENS</a>
+  <div style="display: flex; flex-wrap: wrap; overflow-wrap: break-word; align-items: center; justify-content: space-between; font-weight:600; font-size:2em; border-bottom: 3px solid #242424;border-top: 3px solid #242424; padding-bottom:0.8em; padding-top:0.8em; ">
+      <a href="#cilj">CILJ</a>
+      <span>-</span>
+      <a href="#funkcije">FUNKCIJE</a>
+      <span>-</span>
+      <a href="#prednosti">PREDNOSTI</a>
+      <span>-</span>
+      <a href="#plan">PLAN</a>
+      <span>-</span>
+      <a href="#finalword">ZAKLJUČAK</a>
+      <span>-</span>
+      <a href="#screenshots">SCREENS</a>
   </div>
 
 <br><br><br><br>
