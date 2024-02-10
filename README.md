@@ -18,17 +18,19 @@
       <a href="#screenshots">SCREENS</a>
   </div>
 
-<br><br><br><br>
+<br><br>
 
 <div align="center">
-<img src="readme-assets/logo.png" width="300"  />
+<img src="readme-assets/logo.png" width="600"  />
 </div>
 
 <!--- CILJ CILJ CILJ CILJ CILJ --->
 <a name="cilj"></a>
 <h1 align="center" style="font-size:3vh; font-weight:900"><code>💡 CILJ 💡</code></h1>
 
-### Razviti inovativnu Android aplikaciju koja će zamijeniti postojeće procese kontrole kvaliteta voća i povrća u magacinima. Aplikacija će eliminirati gubitak vremena na tradicionalno pisanje u sveske i ručni unos podataka, pružiti preciznu kontrolu kvaliteta te automatizirano praćenje fakturisanih i stvarnih količina.
+  <h2 align="justify" style="border-bottom: 0px;">
+    Razviti inovativnu Android aplikaciju koja će zamijeniti postojeće procese kontrole kvaliteta voća i povrća u magacinima. Aplikacija će eliminirati gubitak vremena na tradicionalno pisanje u sveske i ručni unos podataka, pružiti preciznu kontrolu kvaliteta te automatizirano praćenje fakturisanih i stvarnih količina.
+  </h2>
 <br>
 
 <!--- FUNKCIJE FUNKCIJE FUNKCIJE --->
@@ -209,7 +211,9 @@
 <a name="finalword"></a>
 <h1 align="center" style="font-size:3vh; font-weight:900"><code>🥇 ZAKLJUČAK 🥇</code></h1>
 
-### Ova Android aplikacija ima potencijal potpuno transformirati procese kontrole kvaliteta voća i povrća, eliminirati gubitak vremena ismanjiti mogućnost grešaka. Zamjenom tradicionalnih metoda, unaprijedit će ukupno poslovanje i transparentnost u upravljanju zalihama. Korisnici će dobiti alat koji ne samo da će poboljšati njihove trenutačne procese, već će također donijeti učinkovitost i preciznost u radu, omogućujući im da se fokusiraju na ključne aspekte njihovog poslovanja. Ova aplikacija predstavlja budućnost u upravljanju kvalitetom proizvoda u skladištima, donoseći inovaciju i poboljšanja koja će imati dugoročan utjecaj na operativnu učinkovitost.
+<h2 align="justify" style="border-bottom: 0px;">
+ Ova Android aplikacija ima potencijal potpuno transformirati procese kontrole kvaliteta voća i povrća, eliminirati gubitak vremena i smanjiti mogućnost grešaka. Zamjenom tradicionalnih metoda, unaprijedit će ukupno poslovanje i transparentnost u upravljanju zalihama. Korisnici će dobiti alat koji ne samo da će poboljšati njihove trenutačne procese, već će također donijeti učinkovitost i preciznost u radu, omogućujući im da se fokusiraju na ključne aspekte njihovog poslovanja. Ova aplikacija predstavlja budućnost u upravljanju kvalitetom proizvoda u skladištima, donoseći inovaciju i poboljšanja koja će imati dugoročan utjecaj na operativnu učinkovitost.
+</h2>
 
 <br>
   
