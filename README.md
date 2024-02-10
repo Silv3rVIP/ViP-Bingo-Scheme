@@ -4,18 +4,18 @@
       <h1 style="color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</h1>
 </div>
 
-  <div style="display: flex; align-items: center; justify-content: space-evenly; font-weight:800; border-bottom: 3px solid #242424;border-top: 3px solid #242424; padding-bottom:0.8em; padding-top:0.8em; padding-left: 1em; padding-right: 1em; ">
-      <a href="#cilj" style="font-size:20%;">CILJ</a>
-      <span>|</span>
-      <a href="#funkcije style="font-size:20%;">FUNKCIONALNOST APLIKACIJE</a>
-      <span>|</span>
-      <a href="#prednosti style="font-size:20%;">PREDNOSTI APLIKACIJE</a>
-      <span>|</span>
-      <a href="#plan style="font-size:20%;">PLAN RAZVOJA</a>
-      <span>|</span>
-      <a href="#finalword style="font-size:20%;">ZAKLJUČAK</a>
-      <span>|</span>
-      <a href="#screenshots style="font-size:20%;">SCREENSHOTS</a>
+  <div style="display: flex; text-wrap: nowrap; align-items: center; justify-content: space-evenly; font-weight:800; border-bottom: 3px solid #242424;border-top: 3px solid #242424; padding-bottom:0.8em; padding-top:0.8em; padding-left: 1em; padding-right: 1em;">
+      <a href="#cilj" style="font-size:md;">CILJ</a>
+      <span style="font-size:md;">-</span>
+      <a href="#funkcije" style="font-size:md;">FUNKCIJE</a>
+      <span style="font-size:md;">-</span>
+      <a href="#prednosti" style="font-size:md;">PREDNOSTI</a>
+      <span style="font-size:md;">-</span>
+      <a href="#plan" style="font-size:md;">PLAN RAZVOJA</a>
+      <span style="font-size:md;">-</span>
+      <a href="#finalword" style="font-size:md;">ZAKLJUČAK</a>
+      <span style="font-size:md;">-</span>
+      <a href="#screenshots" style="font-size:md;">SCREENSHOTS</a>
   </div>
 
 <br><br><br><br>
