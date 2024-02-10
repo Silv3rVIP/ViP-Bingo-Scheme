@@ -1,29 +1,35 @@
-<h1 align="center"><code>APLIKACIJA ZA PRIJEM I KONTROLU KVALITETE VOĆA I POVRĆA</code></h1>
+
+<h1><div align="center"><table align="center"><td>🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</td></table></div></h1>
+
+<h4>
 <table align="center">
   <tr>
     <tr>
-    <td><a href="#cilj">CILJ</a></td>
+    <td><a href="#cilj"> CILJ </a></td>
     <td><a href="#funkcije"> FUNKCIONALNOST APLIKACIJE </a> </td>
-    <td><a href="#prednosti">PREDNOSTI APLIKACIJE</a></td>
-    <td><a href="#plan">PLAN RAZVOJA</a></td>
-    <td><a href="#finalword">ZAKLJUČAK</a></td>
-    <td><a href="#screenshots">SCREENSHOTS</a> </td>
+    <td><a href="#prednosti"> PREDNOSTI APLIKACIJE </a></td>
+    <td><a href="#plan"> PLAN RAZVOJA </a></td>
+    <td><a href="#finalword"> ZAKLJUČAK </a></td>
+    <td><a href="#screenshots"> SCREENSHOTS </a> </td>
       </tr>
     </tr>
 </table>
+</tr>
+  </h4>
+<br><br><br><br>
 
-<div align="center"><img src="https://github.com/Silv3rVIP/ViP-Bingo-Scheme/blob/7c35b92f6c8d1b0079ce012f81529bc3be319aba/readme-assets/logo.png" width="400" height="400" /></div>
+<div align="center"><img src="https://github.com/Silv3rVIP/ViP-Bingo-Scheme/blob/7c35b92f6c8d1b0079ce012f81529bc3be319aba/readme-assets/logo.png" width="300"  /></div>
 
 <!--- CILJ CILJ CILJ CILJ CILJ --->
-<h2 align="center"><code> CILJ </code></h2><a name="cilj"></a>
+<a name="cilj"></a>
+# <p align="center"><code>💡 CILJ 💡</code></p>
 
-Razviti inovativnu Android aplikaciju koja će zamijeniti postojeće procese kontrole kvaliteta voća i povrća u magacinima.
-Aplikacija će eliminirati gubitak vremena na tradicionalno pisanje u sveske i ručni unos podataka, pružiti preciznu kontrolu kvaliteta te automatizirano praćenje fakturisanih i stvarnih količina.
-<br><br>
+### Razviti inovativnu Android aplikaciju koja će zamijeniti postojeće procese kontrole kvaliteta voća i povrća u magacinima. Aplikacija će eliminirati gubitak vremena na tradicionalno pisanje u sveske i ručni unos podataka, pružiti preciznu kontrolu kvaliteta te automatizirano praćenje fakturisanih i stvarnih količina.
+<br>
 
 <!--- FUNKCIJE FUNKCIJE FUNKCIJE --->
 
-<h2 align="center"><code> FUNKCIONALNOST APLIKACIJE </code></h2><a name="funkcije"></a>
+# <p align="center"><code>⚙️ FUNKCIONALNOST APLIKACIJE ⚙️</code></p><a name="funkcije"></a>
 
 ### POČETNI ZASLON
 - Po otvaranju aplikacije, korisnik će biti dočekan početnim zaslonom.
@@ -74,8 +80,10 @@ Aplikacija će eliminirati gubitak vremena na tradicionalno pisanje u sveske i r
 - Dodatne sigurnosne značajke: Poboljšanje sigurnosti aplikacije, uključujući autentikaciju, šifriranje podataka i zaštitu privatnosti.
 
 <br>
+
 <!--- PREDNOSTI PREDNOSTI PREDNOSTI --->
-<h2 align="center"><code> PREDNOSTI APLIKACIJE </code></h2><a name="prednosti"></a>
+<a name="prednosti"></a>
+# <p align="center"><code>🌟 PREDNOSTI APLIKACIJE 🌟</code></p>
 
 ### EFIKASNOST I VREMENSKA UŠTEDA
 - Zamjena tradicionalnih metoda s inovativnom tehnologijom automatskog prepoznavanja slika značajno ubrzava procese kontrole kvaliteta.
@@ -110,8 +118,10 @@ Aplikacija će eliminirati gubitak vremena na tradicionalno pisanje u sveske i r
 - Povezanost slika s podacima, uključujući uslove prijema, količinu, dobavljača i šifru artikla, olakšava praćenje i analizu podataka.
 
 <br>
+
 <!--- PLAN PLAN PLAN --->
-<h2 align="center"><code> PLAN RAZVOJA </code></h2><a name="plan"></a>
+<a name="plan"></a>
+# <p align="center"><code>📝 PLAN RAZVOJA 📝</code></p>
  
 ### 1. FAZA: PLANIRANJE
    - Definiranje ciljeva i svrhe aplikacije:
@@ -169,17 +179,15 @@ Aplikacija će eliminirati gubitak vremena na tradicionalno pisanje u sveske i r
 <br>
 
 <!--- FINAL FINAL FINAL --->
-<h2 align="center"><code> ZAKLJUČAK </code></h2><a name="finalword"></a>
-Ova Android aplikacija ima potencijal potpuno transformirati procese kontrole kvaliteta voća i povrća, eliminirati gubitak vremena ismanjiti mogućnost
-grešaka. Zamjenom tradicionalnih metoda, unaprijedit će ukupno poslovanje i transparentnost u upravljanju zalihama. Korisnici će dobiti alat koji ne samo
-da će poboljšati njihove trenutačne procese, već će također donijeti učinkovitost i preciznost u radu, omogućujući im da se fokusiraju na ključne aspekte
-njihovog poslovanja. Ova aplikacija predstavlja budućnost u upravljanju kvalitetom proizvoda u skladištima, donoseći inovaciju i poboljšanja koja će imati
-dugoročan utjecaj na operativnu učinkovitost.
+<a name="finalword"></a>
+# <p align="center"><code>🥇 ZAKLJUČAK 🥇</code></p>
+### Ova Android aplikacija ima potencijal potpuno transformirati procese kontrole kvaliteta voća i povrća, eliminirati gubitak vremena ismanjiti mogućnost grešaka. Zamjenom tradicionalnih metoda, unaprijedit će ukupno poslovanje i transparentnost u upravljanju zalihama. Korisnici će dobiti alat koji ne samo da će poboljšati njihove trenutačne procese, već će također donijeti učinkovitost i preciznost u radu, omogućujući im da se fokusiraju na ključne aspekte njihovog poslovanja. Ova aplikacija predstavlja budućnost u upravljanju kvalitetom proizvoda u skladištima, donoseći inovaciju i poboljšanja koja će imati dugoročan utjecaj na operativnu učinkovitost.
 
-<div align="center">
 <br>
+  
 <!--- SCREENSHOTS SCREENSHOTS SCREENSHOTS --->
-<h2 align="center"><code> SCREENSHOTS </code></h2><a name="screenshots"></a>
+<a name="screenshots"></a>
+# <p align="center"><code>📸 SCREENSHOTS 📸</code></p><a name="screenshots"></a>
 
 <!-- HOME SCREEN --->
 <div align="center">
@@ -237,19 +245,33 @@ dugoročan utjecaj na operativnu učinkovitost.
 </div>
 
 <br>
+
 <!--- AUTOR AUTOR AUTOR --->
 <a name="autor"></a>
-<h2 align="center"><code> AUTOR </code></h2>
+# <p align="center"><code align="center">👨🏻‍💻 AUTOR 👨🏻‍💻</code></p>
 
-[Silvio Suljić](https://github.com/Silv3rVIP)
+<h3>
+  <a href="https://github.com/Silv3rVIP">
+  <table align="center">
+    <tr>
+      <tr>
+        <td>
+          Silvio  Suljić
+        </td>
+      </tr>
+  </tr>
+</table>
+  </a>
+</h3>
 
 <br>
+
 <!--- LICENCE LICENCE LICENCE --->
 <a name="LICENNCE"></a>
-<h2 align="center"><code> LICENCE </code></h2>
-
+# <p align="center"><code>🧾 LICENCE 🧾</code></p>
+<div align="center">
+  
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
 </div>
