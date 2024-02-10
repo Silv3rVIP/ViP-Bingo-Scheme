@@ -12,7 +12,7 @@
     </tr>
 </table>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Silv3rVIP/ViP_Katalog-Bingo/main/assets/icons/logo.png?token=GHSAT0AAAAAACLDDO3QBMQJUBJFPJI4G2FIZOG4XNQ" width="400" height="400" /></div>
+<div align="center"><img src="https://github.com/Silv3rVIP/ViP-Bingo-Scheme/blob/7c35b92f6c8d1b0079ce012f81529bc3be319aba/readme-assets/logo.png" width="400" height="400" /></div>
 
 <!--- CILJ CILJ CILJ CILJ CILJ --->
 <h2 align="center"><code> CILJ </code></h2><a name="cilj"></a>
@@ -189,8 +189,8 @@ dugoročan utjecaj na operativnu učinkovitost.
           <td><p align="center">HOME SCREEN 1</p></td>
           <td><p align="center">HOME SCREEN 2</p></td>
         </tr>
-      <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/119733366/303662375-ea39d24a-96ab-4de2-8ecf-1e9b3089a123.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240210T025620Z&X-Amz-Expires=300&X-Amz-Signature=8bccab16b84ad4d7ec978333b821cdd3df5da90db46697b6d7cef95939cc30ee&X-Amz-SignedHeaders=host&actor_id=119733366&key_id=0&repo_id=740561612" width="400" /></td>
-      <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/119733366/303662332-88a25a10-0654-46e3-a3cb-858d8bc34750.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240210T025634Z&X-Amz-Expires=300&X-Amz-Signature=93eb89e0da997ff79890570a8ad77bfb0d6603071ac83e8e0e20614d37099e06&X-Amz-SignedHeaders=host&actor_id=119733366&key_id=0&repo_id=740561612" width="400" /></td>
+      <td><img src="readme-assets/HOME-1.jpg" width="400" /></td>
+      <td><img src="readme-assets/HOME-2.jpg" width="400" /></td>
     </tr>
   </table>
 </div>
@@ -203,9 +203,9 @@ dugoročan utjecaj na operativnu učinkovitost.
         <td align="center" width="33.3%">SORTE</td>
         <td align="center" width="33.3%">SORTE + SEARCH</td>
       </tr>
-    <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/119733366/303662271-edb96b6e-233c-4b72-a2c9-2bf6529c088f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240210T025650Z&X-Amz-Expires=300&X-Amz-Signature=50fabb100593366e41150dc9fbe645350ff6f5e54b55a1c3024098a0c0efbaa8&X-Amz-SignedHeaders=host&actor_id=119733366&key_id=0&repo_id=740561612" width="400"/></td>
-    <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/119733366/303662260-7fe241ac-f093-4d42-83e7-6ceddbc717c0.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240210T025700Z&X-Amz-Expires=300&X-Amz-Signature=be470958bc5948e316235f777b4f1919a6c1824387dd5761e856e6866ca89055&X-Amz-SignedHeaders=host&actor_id=119733366&key_id=0&repo_id=740561612" width="400"/></td>
-    <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/119733366/303661128-ae93d55c-04cc-4855-b563-d48fdf6bd39c.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240210T025713Z&X-Amz-Expires=300&X-Amz-Signature=4b4f1d5e9051cfde5266cf75be83da8a83826aa9c1c0ae707c6a4532ac202bb9&X-Amz-SignedHeaders=host&actor_id=119733366&key_id=0&repo_id=740561612" width="400"/></td>
+    <td><img src="readme-assets/KATEGORIJE.jpg" width="400"/></td>
+    <td><img src="readme-assets/SORTE.jpg" width="400"/></td>
+    <td><img src="readme-assets/SEARCH.jpg" width="400"/></td>
   </tr>
 </table>
 </div>
@@ -217,8 +217,8 @@ dugoročan utjecaj na operativnu učinkovitost.
           <td><p align="center">DETALJI ARTIKLA-SORTE 1/2</p></td>
           <td><p align="center">DETALJI ARTIKLA-SORTE 2/2</p></td>
         </tr>
-      <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/119733366/303661175-90dbfb8b-0098-4a61-b819-b3f365bb4122.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240210T025724Z&X-Amz-Expires=300&X-Amz-Signature=9cdf70125ee2cf3dadf6b015e5179502e99f9dfd3fbdb24342dbfed7d66a51a7&X-Amz-SignedHeaders=host&actor_id=119733366&key_id=0&repo_id=740561612" width="400" /></td>
-      <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/119733366/303661211-f6515c7e-d258-42ef-b579-63c0f43efd00.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240210T025733Z&X-Amz-Expires=300&X-Amz-Signature=3c9701317cde1a4bdf4818ed890929b745df39bf8bce72ce4d946f7b4ee55672&X-Amz-SignedHeaders=host&actor_id=119733366&key_id=0&repo_id=740561612" width="400" /></td>
+      <td><img src="readme-assets/DETALJI-1.jpg" width="400" /></td>
+      <td><img src="readme-assets/DETALJI-2.jpg" width="400" /></td>
     </tr>
   </table>
 </div>
@@ -230,8 +230,8 @@ dugoročan utjecaj na operativnu učinkovitost.
           <td><p align="center">NAJAVLJENE ISPORUKE</p></td>
           <td><p align="center">NAJAVLJENE ISPORUKE - DETALJI NAJAVE</p></td>
         </tr>
-      <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/119733366/303661078-fe8eb2e1-620d-4085-93b8-c7bc4135e6c6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240210T025743Z&X-Amz-Expires=300&X-Amz-Signature=ae942079df982c14aa342888f2e5b59e423cdc08ed242b0bdefcbd57a83f6e95&X-Amz-SignedHeaders=host&actor_id=119733366&key_id=0&repo_id=740561612" width="400" /></td>
-      <td><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/119733366/303661049-170bea40-1547-4bc9-96f7-caabd325751c.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240210T025754Z&X-Amz-Expires=300&X-Amz-Signature=ad58a394b39ecdd7cc2cda78e0e5711fb1eeb4009240dc31f80ab48fb8968cec&X-Amz-SignedHeaders=host&actor_id=119733366&key_id=0&repo_id=740561612" width="400" /></td>
+      <td><img src="readme-assets/NAJAVA.jpg" width="400" /></td>
+      <td><img src="readme-assets/NAJAVA-DETALJI.jpg" width="400" /></td>
     </tr>
   </table>
 </div>
