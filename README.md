@@ -14,11 +14,11 @@
       </tr>
     </tr>
 </table>
-</tr>
-  </h4>
+</h4>
+
 <br><br><br><br>
 
-<div align="center"><img src="https://github.com/Silv3rVIP/ViP-Bingo-Scheme/blob/7c35b92f6c8d1b0079ce012f81529bc3be319aba/readme-assets/logo.png" width="300"  /></div>
+<div align="center"><img src="readme-assets/logo.png" width="300"  /></div>
 
 <!--- CILJ CILJ CILJ CILJ CILJ --->
 <a name="cilj"></a>
