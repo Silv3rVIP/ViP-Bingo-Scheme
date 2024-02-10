@@ -220,49 +220,49 @@
 <!-- HOME SCREEN --->
 <div style="display: flex; flex-direction:column; font-weight:800;">
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
-    <p align="center" style="font-size:2.5vw; margin-bottom: 0">HOME SCREEN 1</p>
-    <p align="center" style="font-size:2.5vw; margin-bottom: 0">HOME SCREEN 2</p>
+    <p align="center" style="font-size:2.5vw; margin-bottom: 0; min-width:50%;">HOME SCREEN 1</p>
+    <p align="center" style="font-size:2.5vw; margin-bottom: 0; min-width:50%;">HOME SCREEN 2</p>
   </div>
   <p></p>
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
-    <img src="readme-assets/HOME-1.jpg" width="45%" />
-    <img src="readme-assets/HOME-2.jpg" width="45%" />
+    <img src="readme-assets/HOME-1.jpg" width="47%" />
+    <img src="readme-assets/HOME-2.jpg" width="47%" />
   </div>
 </div>
 <br>
 <div style="display: flex; flex-direction:column; font-weight:800;">
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
-    <p align="center" style="font-size:2.5vw; margin-bottom: 0;">KATEGORIJE</p>
-    <p align="center" style="font-size:2.5vw; margin-bottom: 0">SEARCH + SORTE</p>
+    <p align="center" style="font-size:2.5vw; margin-bottom: 0; min-width:50%;">KATEGORIJE</p>
+    <p align="center" style="font-size:2.5vw; margin-bottom: 0; min-width:50%;">SEARCH + SORTE</p>
   </div>
     <p></p>
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
-    <img src="readme-assets/KATEGORIJE.jpg" width="45%" />
-    <img src="readme-assets/SEARCH.jpg" width="45%" />
+    <img src="readme-assets/KATEGORIJE.jpg" width="47%" />
+    <img src="readme-assets/SEARCH.jpg" width="47%" />
   </div>
 </div>
 <br>
 <div style="display: flex; flex-direction:column; font-weight:800;">
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
-    <p align="center" style="font-size:2.5vw; margin-bottom: 0">DETALJI ARTIKLA-SORTE 1/2</p>
-    <p align="center" style="font-size:2.5vw; margin-bottom: 0">DETALJI ARTIKLA-SORTE 2/2</p>
+    <p align="center" style="font-size:2.5vw; margin-bottom: 0; min-width:50%;">DETALJI ARTIKLA-SORTE 1/2</p>
+    <p align="center" style="font-size:2.5vw; margin-bottom: 0; min-width:50%;">DETALJI ARTIKLA-SORTE 2/2</p>
   </div>
     <p></p>
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
-    <img src="readme-assets/DETALJI-1.jpg" width="45%" />
-    <img src="readme-assets/DETALJI-2.jpg" width="45%" />
+    <img src="readme-assets/DETALJI-1.jpg" width="47%" />
+    <img src="readme-assets/DETALJI-2.jpg" width="47%" />
   </div>
 </div>
 <br>
 <div style="display: flex; flex-direction:column; font-weight:800;">
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
-    <p style="font-size:2.5vw; margin-bottom: 0">NAJAVLJENE ISPORUKE</p>
-    <p style="font-size:2.5vw; margin-bottom: 0">DETALJI NAJAVE</p>
+    <p align="center" style="font-size:2.5vw; margin-bottom: 0; min-width:50%;">NAJAVLJENE ISPORUKE</p>
+    <p align="center" style="font-size:2.5vw; margin-bottom: 0; min-width:50%;">DETALJI NAJAVE</p>
   </div>
     <p></p>
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
-    <img src="readme-assets/NAJAVA.jpg" width="45%" />
-    <img src="readme-assets/NAJAVA-DETALJI.jpg" width="45%" />
+    <img src="readme-assets/NAJAVA.jpg" width="47%" />
+    <img src="readme-assets/NAJAVA-DETALJI.jpg" width="47%" />
   </div>
 </div>
 
@@ -270,10 +270,10 @@
 
 <!--- AUTOR AUTOR AUTOR --->
 <a name="autor"></a>
-<h1 align="center"><code align="center">👨🏻‍💻 AUTOR 👨🏻‍💻</code></h1>
+<h1 align="center" style="font-size:3vh; font-weight:900"><code align="center">👨🏻‍💻 AUTOR 👨🏻‍💻</code></h1>
 
 <div align="center">
-<a href="https://github.com/Silv3rVIP" style="font-size:2em; font-weight:800">Silvio  Suljić</a>
+<a href="https://github.com/Silv3rVIP" style="font-size:2.5vh; font-weight:800">Silvio  Suljić</a>
 </div>
 
 <br>
