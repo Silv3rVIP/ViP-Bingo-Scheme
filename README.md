@@ -21,14 +21,14 @@
 
 <!--- CILJ CILJ CILJ CILJ CILJ --->
 <a name="cilj"></a>
-# <p align="center"><code>💡 CILJ 💡</code></p>
+<h1 align="center"><code>💡 CILJ 💡</code></h1>
 
 ### Razviti inovativnu Android aplikaciju koja će zamijeniti postojeće procese kontrole kvaliteta voća i povrća u magacinima. Aplikacija će eliminirati gubitak vremena na tradicionalno pisanje u sveske i ručni unos podataka, pružiti preciznu kontrolu kvaliteta te automatizirano praćenje fakturisanih i stvarnih količina.
 <br>
 
 <!--- FUNKCIJE FUNKCIJE FUNKCIJE --->
-
-# <p align="center"><code>⚙️ FUNKCIONALNOST APLIKACIJE ⚙️</code></p><a name="funkcije"></a>
+<a name="funkcije"></a>
+<h1 align="center"><code>⚙️ FUNKCIONALNOST APLIKACIJE ⚙️</code></h1>
 
 ### POČETNI ZASLON
 - Po otvaranju aplikacije, korisnik će biti dočekan početnim zaslonom.
