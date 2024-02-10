@@ -4,7 +4,7 @@
       <h1 style="color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</h1>
 </div>
 
-<h1>
+<h3>
   <div style="display: flex; align-items: center; justify-content: space-evenly; font-weight:800;border-bottom: 3px solid #242424;border-top: 3px solid #242424; padding-bottom:0.8em; padding-top:0.8em; padding-left: 1em; padding-right: 1em;">
       <a href="#cilj">CILJ</a>
       <span>|</span>
@@ -18,7 +18,7 @@
       <span>|</span>
       <a href="#screenshots">SCREENSHOTS</a>
   </div>
-</h1>
+</h3>
 
 <br><br><br><br>
 
