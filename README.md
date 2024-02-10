@@ -145,18 +145,18 @@
 
   ⬜ - Odrediti financijske resurse, vremenski okvir i timski sastav.
 
-<h2>
+<h2></h2>
 
 ### 2. FAZA: DIZAJN
-   - Kreiranje wireframe-a:
+- Kreiranje wireframe-a:
    
     ✅ - Izraditi osnovni koncept korisničkog sučelja i korisničkog iskustva.
 
-   - Dizajniranje baze podataka:
+- Dizajniranje baze podataka:
 
     ⬜ - Definiranje strukture baze podataka potrebnu za spremanje podataka o voću, povrću, dobavljačima itd.
 
-   - UI/UX dizajn:
+- UI/UX dizajn:
 
     ⬜ - Razvijanje vizualnog dizajna aplikacije i korisničko sučelje.
     ⬜ - Osigurajti intuitivnost i jednostavnost korištenja.
@@ -164,41 +164,41 @@
 <h2>
 
 ### 3. FAZA: IMPLEMENTACIJA
-   - Razvoj backend-a:
+- Razvoj backend-a:
 
     ⬜ - Implementiranje serverske logiku za obradu podataka, autentikaciju i upravljanje bazom podataka.
 
-   - Razvoj frontend-a:
+- Razvoj frontend-a:
 
     ⬜ - Implementiranje korisničkog sučelje prema dizajnu i wireframe-ima.
 
-   - Integracija funkcionalnosti:
+- Integracija funkcionalnosti:
 
     ⬜ - Povezivanje backend i frontend kako bi aplikacija radila kao cjelina.
 
 <h2>
 
 ### 4. FAZA: TESTIRANJE
-   - Unit testiranje:
+- Unit testiranje:
 
     ⬜ - Testiranje svake funkcionalnosti odvojeno kako bi se osigurala ispravnost.
 
-   - Integracijsko testiranje:
+- Integracijsko testiranje:
 
     ⬜ - Testiranje rada svih dijelova aplikacije zajedno.
 
-   - Testiranje korisničkog iskustva:
+- Testiranje korisničkog iskustva:
 
     ⬜ - Provjeriti kako korisnici reagiraju na aplikaciju i prikupiti povratne informacije.
 
 <h2>
 
 ### 5. FAZA: PUŠTANJE U RAD
-   - Finalna revizija:
+- Finalna revizija:
 
     ⬜ - Provođenje konačne revizije aplikacije prije puštanja u rad.
 
-   - Puštanje u rad:
+- Puštanje u rad:
 
     ⬜ - Objaviti aplikaciju na Google Play Store-u ili lokalno ručno instaliranje na uređaje.
     ⬜ - Osigurati podršku korisnicima i održavanje sustava.
@@ -206,11 +206,11 @@
 <h2>
 
 ### 6. FAZA: ODRŽAVANJE
-   - Nadogradnje i ispravci:
+- Nadogradnje i ispravci:
 
     ⬜ - Pratiti povratne informacije korisnika i ažuriranje aplikacije prema potrebi.
 
-   - Praćenje performansi:
+- Praćenje performansi:
 
     ⬜ - Redovito pratiti performanse sustava i optimizirati ih prema potrebi.
 
