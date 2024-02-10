@@ -4,21 +4,19 @@
       <h1 style="color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</h1>
 </div>
 
-<h3>
-  <div style="display: flex; align-items: center; justify-content: space-evenly; font-weight:800;border-bottom: 3px solid #242424;border-top: 3px solid #242424; padding-bottom:0.8em; padding-top:0.8em; padding-left: 1em; padding-right: 1em;">
-      <a href="#cilj">CILJ</a>
+  <div style="display: flex; align-items: center; justify-content: space-evenly; font-weight:800; border-bottom: 3px solid #242424;border-top: 3px solid #242424; padding-bottom:0.8em; padding-top:0.8em; padding-left: 1em; padding-right: 1em; ">
+      <a href="#cilj" style="font-size:2em">CILJ</a>
       <span>|</span>
-      <a href="#funkcije">FUNKCIONALNOST APLIKACIJE</a>
+      <a href="#funkcije style="font-size:2em"">FUNKCIONALNOST APLIKACIJE</a>
       <span>|</span>
-      <a href="#prednosti">PREDNOSTI APLIKACIJE</a>
+      <a href="#prednosti style="font-size:2em"">PREDNOSTI APLIKACIJE</a>
       <span>|</span>
-      <a href="#plan">PLAN RAZVOJA</a>
+      <a href="#plan style="font-size:2em"">PLAN RAZVOJA</a>
       <span>|</span>
-      <a href="#finalword">ZAKLJUČAK</a>
+      <a href="#finalword style="font-size:2em"">ZAKLJUČAK</a>
       <span>|</span>
-      <a href="#screenshots">SCREENSHOTS</a>
+      <a href="#screenshots style="font-size:2em"">SCREENSHOTS</a>
   </div>
-</h3>
 
 <br><br><br><br>
 
