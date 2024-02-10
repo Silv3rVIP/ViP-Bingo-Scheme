@@ -1,7 +1,5 @@
 <body style="background-color: #121212; color: #F0F0F0"></body>
 
-- [ ] Mercury
-
 <div align="center">
       <h1 style="color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</h1>
 </div>
@@ -132,60 +130,57 @@
  
 ### 1. FAZA: PLANIRANJE
    - Definiranje ciljeva i svrhe aplikacije: 
-   
-    Identificiranje osnovnih funkcionalnosti i ciljeva aplikacije. ☑️
-
+     - [x] Identificiranje osnovnih funkcionalnosti i ciljeva aplikacije. ✔️
    - Analiza zahtjeva:
-   
-    - Identificiranje sve tehničke i funkcionalne zahtjeve aplikacije. ✅
-    - [x] Razgovar s budućim korisnicima kako bi dobili njihove povratne informacije. √
+     - [x] Identificiranje sve tehničke i funkcionalne zahtjeve aplikacije. ✔️
+     - [x] Razgovar s budućim korisnicima kako bi dobili njihove povratne informacije. ✔️
    - Analiza konkurencije:
-     - [x] Proučiti slične aplikacije na tržištu i identificiranje njihove snage i slabosti. √
+     - [x] Proučiti slične aplikacije na tržištu i identificiranje njihove snage i slabosti. ✔️
    - Definiranje budžeta i resursa:
-     - [ ] Odrediti financijske resurse, vremenski okvir i timski sastav.
+     - [ ] Odrediti financijske resurse, vremenski okvir i timski sastav. ✖️
 ##
 
 ### 2. FAZA: DIZAJN
    - Kreiranje wireframe-a:
-     - [x] Izraditi osnovni koncept korisničkog sučelja i korisničkog iskustva. √
+     - [x] Izraditi osnovni koncept korisničkog sučelja i korisničkog iskustva. ✔️
    - Dizajniranje baze podataka:
-     - [ ] Definiranje strukture baze podataka potrebnu za spremanje podataka o voću, povrću, dobavljačima itd.
+     - [ ] Definiranje strukture baze podataka potrebnu za spremanje podataka o voću, povrću, dobavljačima itd. ✖️
    - UI/UX dizajn:
-     - [ ] Razvijanje vizualnog dizajna aplikacije i korisničko sučelje.
-     - [ ] Osigurajti intuitivnost i jednostavnost korištenja.
+     - [ ] Razvijanje vizualnog dizajna aplikacije i korisničko sučelje. ✖️
+     - [ ] Osigurajti intuitivnost i jednostavnost korištenja. ✖️
 ##
 
 ### 3. FAZA: IMPLEMENTACIJA
    - Razvoj backend-a:
-     - [ ] Implementiranje serverske logiku za obradu podataka, autentikaciju i upravljanje bazom podataka.
+     - [ ] Implementiranje serverske logiku za obradu podataka, autentikaciju i upravljanje bazom podataka. ✖️
    - Razvoj frontend-a:
-     - [ ] Implementiranje korisničkog sučelje prema dizajnu i wireframe-ima.
+     - [ ] Implementiranje korisničkog sučelje prema dizajnu i wireframe-ima. ✖️
    - Integracija funkcionalnosti:
-     - [ ] Povezivanje backend i frontend kako bi aplikacija radila kao cjelina.
+     - [ ] Povezivanje backend i frontend kako bi aplikacija radila kao cjelina. ✖️
 ##
 
 ### 4. FAZA: TESTIRANJE
    - Unit testiranje:
-     - [ ] Testiranje svake funkcionalnosti odvojeno kako bi se osigurala ispravnost.
+     - [ ] Testiranje svake funkcionalnosti odvojeno kako bi se osigurala ispravnost. ✖️
    - Integracijsko testiranje:
-     - [ ] Testiranje rada svih dijelova aplikacije zajedno.
+     - [ ] Testiranje rada svih dijelova aplikacije zajedno. ✖️
    - Testiranje korisničkog iskustva:
-     - [ ] Provjeriti kako korisnici reagiraju na aplikaciju i prikupiti povratne informacije.
+     - [ ] Provjeriti kako korisnici reagiraju na aplikaciju i prikupiti povratne informacije. ✖️
 ##
 
 ### 5. FAZA: PUŠTANJE U RAD
    - Finalna revizija:
-     - [ ] Provođenje konačne revizije aplikacije prije puštanja u rad.
+     - [ ] Provođenje konačne revizije aplikacije prije puštanja u rad. ✖️
    - Puštanje u rad:
-     - [ ] Objaviti aplikaciju na Google Play Store-u ili lokalno ručno instaliranje na uređaje.
-     - [ ] Osigurati podršku korisnicima i održavanje sustava.
+     - [ ] Objaviti aplikaciju na Google Play Store-u ili lokalno ručno instaliranje na uređaje. ✖️
+     - [ ] Osigurati podršku korisnicima i održavanje sustava. ✖️
 ## 
 
 ### 6. FAZA: ODRŽAVANJE
    - Nadogradnje i ispravci:
-     - [ ] Pratiti povratne informacije korisnika i ažuriranje aplikacije prema potrebi.
+     - [ ] Pratiti povratne informacije korisnika i ažuriranje aplikacije prema potrebi. ✖️
    - Praćenje performansi:
-     - [ ] Redovito pratiti performanse sustava i optimizirati ih prema potrebi.
+     - [ ] Redovito pratiti performanse sustava i optimizirati ih prema potrebi. ✖️
 <br>
 
 <!--- FINAL FINAL FINAL --->
@@ -208,8 +203,8 @@
   </div>
   <br>
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
-    <img src="readme-assets/HOME-1.jpg" width="400" />
-    <img src="readme-assets/HOME-2.jpg" width="400" />
+    <img src="readme-assets/HOME-1.jpg" width="40%" />
+    <img src="readme-assets/HOME-2.jpg" width="40%" />
   </div>
 </div>
 <br><br>
