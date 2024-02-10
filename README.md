@@ -1,10 +1,10 @@
-<table align="center">
-<td>
 <h1 align="center">
-🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒
+  <table>
+    <td>
+    🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒
+    </td>
+  </table>
 </h1>
-</td>
-</table>
 
 
 <h4 align="justify">
