@@ -128,22 +128,22 @@
 <h1 align="center"><code>📝 PLAN RAZVOJA 📝</code></h1>
  
 ### 1. FAZA: PLANIRANJE
-   - Definiranje ciljeva i svrhe aplikacije: 
-    
-    ✅ - Identificiranje osnovnih funkcionalnosti i ciljeva aplikacije.
+- Definiranje ciljeva i svrhe aplikacije:   
 
-   - Analiza zahtjeva:
+  ✅ - Identificiranje osnovnih funkcionalnosti i ciljeva aplikacije.
 
-    ✅ - Identificiranje sve tehničke i funkcionalne zahtjeve aplikacije.
-    ✅ - Razgovar s budućim korisnicima kako bi dobili njihove povratne informacije.
+- Analiza zahtjeva:
 
-   - Analiza konkurencije:
-    
-    ✅ - Proučiti slične aplikacije na tržištu i identificiranje njihove snage i slabosti.
+  ✅ - Identificiranje sve tehničke i funkcionalne zahtjeve aplikacije.
 
-   - Definiranje budžeta i resursa:
-    
-    ⬜ - Odrediti financijske resurse, vremenski okvir i timski sastav.
+  ✅ - Razgovar s budućim korisnicima kako bi dobili njihove povratne informacije.
+- Analiza konkurencije:  
+
+  ✅ - Proučiti slične aplikacije na tržištu i identificiranje njihove snage i slabosti.
+
+- Definiranje budžeta i resursa:
+
+  ⬜ - Odrediti financijske resurse, vremenski okvir i timski sastav.
 
 <h2>
 
