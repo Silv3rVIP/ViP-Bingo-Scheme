@@ -4,7 +4,7 @@
       <h1 style="color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</h1>
 </div>
 
-  <div style="display: flex; flex-wrap: wrap; overflow-wrap: break-word; align-items: center; justify-content: space-between; font-weight:600; font-size:2em; border-bottom: 3px solid #242424;border-top: 3px solid #242424; padding-bottom:0.8em; padding-top:0.8em; ">
+  <div style="display: flex; flex-wrap: wrap; overflow-wrap: break-word; align-items: center; justify-content: space-between; font-weight:800; font-size:1.5vw; border-bottom: 3px solid #242424;border-top: 3px solid #242424; padding-bottom:0.8em; padding-top:0.8em; ">
       <a href="#cilj">CILJ</a>
       <span>-</span>
       <a href="#funkcije">FUNKCIJE</a>
