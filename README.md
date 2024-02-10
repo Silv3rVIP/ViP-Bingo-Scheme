@@ -3,13 +3,18 @@
 </div>
 
 
-  <div style="display: flex; align-items: center; justify-content: space-between; font-weight:800;border-bottom: 4px solid #242424;border-top: 4px solid #242424; padding-bottom:1em; padding-top:1em; padding-left: 1em; padding-right: 1em;">
-      <a href="#cilj"> CILJ </a>
-      <a href="#funkcije"> FUNKCIONALNOST APLIKACIJE </a>
-      <a href="#prednosti"> PREDNOSTI APLIKACIJE </a>
-      <a href="#plan"> PLAN RAZVOJA </a>
-      <a href="#finalword"> ZAKLJUČAK </a>
-      <a href="#screenshots"> SCREENSHOTS </a>
+  <div style="display: flex; align-items: center; justify-content: space-evenly; font-weight:800;border-bottom: 3px solid #242424;border-top: 3px solid #242424; padding-bottom:0.8em; padding-top:0.8em; padding-left: 1em; padding-right: 1em;">
+      <a href="#cilj">CILJ</a>
+      <span>|</span>
+      <a href="#funkcije">FUNKCIONALNOST APLIKACIJE</a>
+      <span>|</span>
+      <a href="#prednosti">PREDNOSTI APLIKACIJE</a>
+      <span>|</span>
+      <a href="#plan">PLAN RAZVOJA</a>
+      <span>|</span>
+      <a href="#finalword">ZAKLJUČAK</a>
+      <span>|</span>
+      <a href="#screenshots">SCREENSHOTS</a>
   </div>
 
 <br><br><br><br>
