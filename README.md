@@ -2,21 +2,14 @@
       <h1 style="color:red; font-weight:800;">🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</h1>
 </div>
 
-
-<h4 align="justify">
-  <table>
-    <tr>
-      <tr>
-      <td><a href="#cilj"> CILJ </a></td>
-      <td><a href="#funkcije"> FUNKCIONALNOST APLIKACIJE </a> </td>
-      <td><a href="#prednosti"> PREDNOSTI APLIKACIJE </a></td>
-      <td><a href="#plan"> PLAN RAZVOJA </a></td>
-      <td><a href="#finalword"> ZAKLJUČAK </a></td>
-      <td><a href="#screenshots"> SCREENSHOTS </a> </td>
-        </tr>
-      </tr>
+  <table style="display: flex; justify-content: space-evenly;">
+      <td><a href="#cilj" style="font-size:1.5em"> CILJ </a></h1></td>
+      <td><a href="#funkcije" style="font-size:1.5em"> FUNKCIONALNOST APLIKACIJE </a></td>
+      <td><a href="#prednosti" style="font-size:1.5em"> PREDNOSTI APLIKACIJE </a></td>
+      <td><a href="#plan" style="font-size:1.5em"> PLAN RAZVOJA </a></td>
+      <td><a href="#finalword" style="font-size:1.5em"> ZAKLJUČAK </a></td>
+      <td><a href="#screenshots" style="font-size:1.5em"> SCREENSHOTS </a></td>
   </table>
-</h4>
 
 <br><br>
 
