@@ -173,7 +173,7 @@
    - Puštanje u rad:
      - [ ] Objaviti aplikaciju na Google Play Store-u ili lokalno ručno instaliranje na uređaje.
      - [ ] Osigurati podršku korisnicima i održavanje sustava.
-##
+## 
 
 ### 6. FAZA: ODRŽAVANJE
    - Nadogradnje i ispravci:
@@ -185,6 +185,7 @@
 <!--- FINAL FINAL FINAL --->
 <a name="finalword"></a>
 <h1 align="center"><code>🥇 ZAKLJUČAK 🥇</code></h1>
+
 ### Ova Android aplikacija ima potencijal potpuno transformirati procese kontrole kvaliteta voća i povrća, eliminirati gubitak vremena ismanjiti mogućnost grešaka. Zamjenom tradicionalnih metoda, unaprijedit će ukupno poslovanje i transparentnost u upravljanju zalihama. Korisnici će dobiti alat koji ne samo da će poboljšati njihove trenutačne procese, već će također donijeti učinkovitost i preciznost u radu, omogućujući im da se fokusiraju na ključne aspekte njihovog poslovanja. Ova aplikacija predstavlja budućnost u upravljanju kvalitetom proizvoda u skladištima, donoseći inovaciju i poboljšanja koja će imati dugoročan utjecaj na operativnu učinkovitost.
 
 <br>
@@ -205,46 +206,43 @@
     <img src="readme-assets/HOME-2.jpg" width="400" />
   </div>
 </div>
-
-<div style="display:flex; justify-content: space-around">
-  <table>
-    <tr>
-      <tr>
-        <td align="center" width="33.3%">KATEGORIJE</td>
-        <td align="center" width="33.3%">SORTE</td>
-        <td align="center" width="33.3%">SORTE + SEARCH</td>
-      </tr>
-    <td><img src="readme-assets/KATEGORIJE.jpg" width="400"/></td>
-    <td><img src="readme-assets/SORTE.jpg" width="400"/></td>
-    <td><img src="readme-assets/SEARCH.jpg" width="400"/></td>
-  </tr>
-</table>
+<br><br>
+<div style="display: flex; flex-direction:column; font-weight:800;">
+  <div style="display: flex; justify-content: space-around; flex-direction: row;">
+    <p align="center" style="font-size:1.5em; height: 0.8em">KATEGORIJE</p>
+    <p align="center" style="font-size:1.5em; height: 0.8em">SORTE</p>
+    <p align="center" style="font-size:1.5em; height: 0.8em">SORTE + SEARCH</p>
+  </div>
+  <br>
+  <div style="display: flex; justify-content: space-around; flex-direction: row;">
+    <img src="readme-assets/KATEGORIJE.jpg" width="400" />
+    <img src="readme-assets/SORTE.jpg" width="400" />
+    <img src="readme-assets/SEARCH.jpg" width="400" />
+  </div>
 </div>
-
-<div align="center">
-  <table align="center">
-    <tr>
-      <tr>
-          <td><p align="center">DETALJI ARTIKLA-SORTE 1/2</p></td>
-          <td><p align="center">DETALJI ARTIKLA-SORTE 2/2</p></td>
-        </tr>
-      <td><img src="readme-assets/DETALJI-1.jpg" width="400" /></td>
-      <td><img src="readme-assets/DETALJI-2.jpg" width="400" /></td>
-    </tr>
-  </table>
+<br><br>
+<div style="display: flex; flex-direction:column; font-weight:800;">
+  <div style="display: flex; justify-content: space-around; flex-direction: row;">
+    <p align="center" style="font-size:1.5em; height: 0.8em">DETALJI ARTIKLA-SORTE 1/2</p>
+    <p align="center" style="font-size:1.5em; height: 0.8em">DETALJI ARTIKLA-SORTE 2/2</p>
+  </div>
+  <br>
+  <div style="display: flex; justify-content: space-around; flex-direction: row;">
+    <img src="readme-assets/DETALJI-1.jpg" width="400" />
+    <img src="readme-assets/DETALJI-2.jpg" width="400" />
+  </div>
 </div>
-
-<div align="center">
-  <table align="center">
-    <tr>
-      <tr>
-          <td><p align="center">NAJAVLJENE ISPORUKE</p></td>
-          <td><p align="center">NAJAVLJENE ISPORUKE - DETALJI NAJAVE</p></td>
-        </tr>
-      <td><img src="readme-assets/NAJAVA.jpg" width="400" /></td>
-      <td><img src="readme-assets/NAJAVA-DETALJI.jpg" width="400" /></td>
-    </tr>
-  </table>
+<br><br>
+<div style="display: flex; flex-direction:column; font-weight:800;">
+  <div style="display: flex; justify-content: space-around; flex-direction: row;">
+    <p align="center" style="font-size:1.5em; height: 0.8em">NAJAVLJENE ISPORUKE</p>
+    <p align="center" style="font-size:1.5em; height: 0.8em">DETALJI NAJAVE</p>
+  </div>
+  <br>
+  <div style="display: flex; justify-content: space-around; flex-direction: row;">
+    <img src="readme-assets/NAJAVA.jpg" width="400" />
+    <img src="readme-assets/NAJAVA-DETALJI.jpg" width="400" />
+  </div>
 </div>
 
 <br>
@@ -253,19 +251,9 @@
 <a name="autor"></a>
 <h1 align="center"><code align="center">👨🏻‍💻 AUTOR 👨🏻‍💻</code></h1>
 
-<h3>
-  <a href="https://github.com/Silv3rVIP">
-  <table align="center">
-    <tr>
-      <tr>
-        <td>
-          Silvio  Suljić
-        </td>
-      </tr>
-  </tr>
-</table>
-  </a>
-</h3>
+<div align="center">
+<a href="https://github.com/Silv3rVIP" style="font-size:2em; font-weight:800">Silvio  Suljić</a>
+</div>
 
 <br>
 
@@ -273,8 +261,9 @@
 <a name="LICENNCE"></a>
 <h1 align="center"><code>🧾 LICENCE 🧾</code></h1>
 <div align="center">
-  
+
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
 </div>
