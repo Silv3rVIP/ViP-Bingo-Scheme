@@ -1,8 +1,10 @@
+<body align="center">
 
 <h1><div align="center"><table align="center"><td>🍒 PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 🍒</td></table></div></h1>
 
-<h4>
+
 <table align="center">
+<h4>
   <tr>
     <tr>
     <td><a href="#cilj"> CILJ </a></td>
@@ -13,9 +15,8 @@
     <td><a href="#screenshots"> SCREENSHOTS </a> </td>
       </tr>
     </tr>
+    </h4>
 </table>
-</h4>
-
 <br><br><br><br>
 
 <div align="center"><img src="readme-assets/logo.png" width="300"  /></div>
@@ -275,3 +276,5 @@
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 </div>
+
+</body>
