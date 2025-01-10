@@ -1,11 +1,9 @@
 <body style="background-color: #121212; color: #F0F0F0"></body>
 
-<div align="center" style="display:flex; flex-direction: row; align-items: center; justify-content: space-between; align-content: center;">
-  <span align="center" style="font-size:2.8vh; color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0; padding-right: 1%"> 🍒 </span>
+<div align="center" style="display:flex; flex-direction: row; align-items: center; justify-content: center; align-content: center;">
   <h1 align="center" style="font-size:2.5vh; color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;">
-   PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA 
+   🍒     PRIJEM I KONTROLA KVALITETE VOĆA I POVRĆA      🍒
   </h1>
-  <span style="font-size:2.8vh; color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;padding-left: 1%"> 🍒 </span>      
 </div>
 
   <div align="center" style="display: flex; flex-wrap: wrap; overflow-wrap: break-word; width: full; align-items: center; justify-content: space-between; font-weight:800; font-size:1.5vh; border-bottom: 3px solid #242424;border-top: 3px solid #242424; padding-bottom:0.8em; padding-top:0.8em; ">
