@@ -8,7 +8,7 @@
   <span style="font-size:2.8vh; color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;padding-left: 1%"> 🍒 </span>      
 </div>
 
-  <div style="display: flex; flex-wrap: wrap; overflow-wrap: break-word; align-items: center; justify-content: space-between; font-weight:800; font-size:1.5vh; border-bottom: 3px solid #242424;border-top: 3px solid #242424; padding-bottom:0.8em; padding-top:0.8em; ">
+  <div style="display: flex; flex-wrap: wrap; overflow-wrap: break-word; width: full; align-items: center; justify-content: space-between; font-weight:800; font-size:1.5vh; border-bottom: 3px solid #242424;border-top: 3px solid #242424; padding-bottom:0.8em; padding-top:0.8em; ">
       <a href="#cilj">CILJ</a>
       <span>|</span>
       <a href="#funkcije">FUNKCIJE</a>
@@ -156,10 +156,10 @@
     ✅ - Izraditi osnovni koncept korisničkog sučelja i korisničkog iskustva.
 
 - **Dizajniranje baze podataka:**  
-    ⬜ - Definiranje strukture baze podataka potrebnu za spremanje podataka o voću, povrću, dobavljačima itd.
+    ✅ - Definiranje strukture baze podataka potrebnu za spremanje podataka o voću, povrću, dobavljačima itd.
 
 - **UI/UX dizajn:**  
-    ⬜ - Razvijanje vizualnog dizajna aplikacije i korisničko sučelje.  
+    ✅ - Razvijanje vizualnog dizajna aplikacije i korisničko sučelje.  
     ⬜ - Osigurajti intuitivnost i jednostavnost korištenja.  
 
 <hr style="height:0.1em">
@@ -167,10 +167,10 @@
 ### 3. FAZA: IMPLEMENTACIJA
 
 - **Razvoj backend-a:**  
-    ⬜ - Implementiranje serverske logiku za obradu podataka, autentikaciju i upravljanje bazom podataka.
+    ✅ - Implementiranje serverske logiku za obradu podataka, autentikaciju i upravljanje bazom podataka.
 
 - **Razvoj frontend-a:**  
-    ⬜ - Implementiranje korisničkog sučelje prema dizajnu i wireframe-ima.  
+    ✅ - Implementiranje korisničkog sučelje prema dizajnu i wireframe-ima.  
 
 - **Integracija funkcionalnosti:**  
     ⬜ - Povezivanje backend i frontend kako bi aplikacija radila kao cjelina.
@@ -180,10 +180,10 @@
 ### 4. FAZA: TESTIRANJE
 
 - **Unit testiranje:**  
-    ⬜ - Testiranje svake funkcionalnosti odvojeno kako bi se osigurala ispravnost.
+    ✅ - Testiranje svake funkcionalnosti odvojeno kako bi se osigurala ispravnost.
 
 - **Integracijsko testiranje:**  
-    ⬜ - Testiranje rada svih dijelova aplikacije zajedno.
+    ✅ - Testiranje rada svih dijelova aplikacije zajedno.
 
 - **Testiranje korisničkog iskustva:**  
     ⬜ - Provjeriti kako korisnici reagiraju na aplikaciju i prikupiti povratne informacije.
@@ -223,10 +223,16 @@
   
 <!--- SCREENSHOTS SCREENSHOTS SCREENSHOTS --->
 <a name="screenshots"></a>
-<h1 align="center" style="font-size:3vh; font-weight:700;">📸 SCREENSHOTS 📸</h1>
+<h1 align="center" style="font-size:3vh; font-weight:700;">📸 SCREENSHOTS / OSTALI RESURSI 📸</h1>
+
+
 
 <!-- HOME SCREEN --->
 <div style="display: flex; flex-direction:column; font-weight:800;">
+  <div style="display: flex; justify-content: space-around; flex-direction: row;">
+    <p align="center" style="font-size:2.5vw; margin-bottom: 0; min-width:50%;">WEB STRANICA</p>
+    <a href="https://vip-bingo.web.app/">ViP - Bingo d.o.o</a>
+  </div>
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
     <p align="center" style="font-size:2.5vw; margin-bottom: 0; min-width:50%;">HOME SCREEN 1</p>
     <p align="center" style="font-size:2.5vw; margin-bottom: 0; min-width:50%;">HOME SCREEN 2</p>
