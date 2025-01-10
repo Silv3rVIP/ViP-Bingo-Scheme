@@ -8,7 +8,7 @@
   <span style="font-size:2.8vh; color:red; font-weight:800; border-bottom: 0px solid #242424; padding-bottom:0;padding-left: 1%"> 🍒 </span>      
 </div>
 
-  <div style="display: flex; flex-wrap: wrap; overflow-wrap: break-word; width: full; align-items: center; justify-content: space-between; font-weight:800; font-size:1.5vh; border-bottom: 3px solid #242424;border-top: 3px solid #242424; padding-bottom:0.8em; padding-top:0.8em; ">
+  <div align="center" style="display: flex; flex-wrap: wrap; overflow-wrap: break-word; width: full; align-items: center; justify-content: space-between; font-weight:800; font-size:1.5vh; border-bottom: 3px solid #242424;border-top: 3px solid #242424; padding-bottom:0.8em; padding-top:0.8em; ">
       <a href="#cilj">CILJ</a>
       <span>|</span>
       <a href="#funkcije">FUNKCIJE</a>
@@ -230,9 +230,10 @@
 <!-- HOME SCREEN --->
 <div style="display: flex; flex-direction:column; font-weight:800;">
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
-    <p align="center" style="font-size:2.5vw; margin-bottom: 0; min-width:50%;">WEB STRANICA</p>
-    <a href="https://vip-bingo.web.app/">ViP - Bingo d.o.o</a>
+    <p align="center" style="font-size:2.5vw; margin-bottom: 0; min-width:50%;">WEB SITE:</p>
+    <a align="center" style="font-size:5vw; href="https://vip-bingo.web.app/">ViP - Bingo d.o.o</a>
   </div>
+  <p align="center" style="font-size:2.5vw; margin-bottom: 0; min-width:50%;">ANDROID APP:</p>
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
     <p align="center" style="font-size:2.5vw; margin-bottom: 0; min-width:50%;">HOME SCREEN 1</p>
     <p align="center" style="font-size:2.5vw; margin-bottom: 0; min-width:50%;">HOME SCREEN 2</p>
