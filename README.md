@@ -224,10 +224,10 @@
 <!--- SCREENSHOTS SCREENSHOTS SCREENSHOTS --->
 <a name="screenshots"></a>
 <h1 align="center" style="font-size:3vh; font-weight:700;">📸 SCREENSHOTS / OSTALI RESURSI 📸</h1>
-<p align="center" style="font-size:3vh; font-weight:700;">
+
 WEB SITE
 [ViP - Bingo d.o.o](https://vip-bingo.web.app/ "ViP - Bingo d.o.o")
-</p>
+
 
 <!-- HOME SCREEN --->
 <div align="center">
