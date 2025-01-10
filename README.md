@@ -226,17 +226,19 @@
 <h1 align="center" style="font-size:3vh; font-weight:700;">📸 SCREENSHOTS / OSTALI RESURSI 📸</h1>
 
 <!-- HOME SCREEN --->
-<div style="display: flex; flex-direction:column; font-weight:800;">
-  <p align="center" style="font-size:2.5vw; font-weight:600">
-    WEB SITE:
-  </p>  
-  <a align="center" width="100%" style="width:100%; font-size:2.5vw; font-weight:600" href="https://vip-bingo.web.app/" target="\_blank">
-<p>ViP - Bingo d.o.o</p>
-</a>
-<p align="center" style="font-size:2.5vw; font-weight:600">
-ANDROID APP:
-</p>
+<div align="center">
+  <h3 align="center" style="font-size:2.5vw; font-weight:600">
+    ### WEB SITE:
+  </h3>  
+    <a align="center" style="font-size:2.5vw; font-weight:600" width="100%" href="https://vip-bingo.web.app/" target="\_blank">
+        <p align="center" style="font-size:2.5vw; font-weight:600">
+        ViP - Bingo d.o.o
+        </p>
+    </a>
 </div>
+<h2 align="center" style="font-size:2.5vw; font-weight:600">
+    ANDROID APP:
+</h2>
 <div style="display: flex; flex-direction:row; font-weight:800;">
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
     <p align="center" style="font-size:2.5vw; margin-bottom: 0; min-width:50%;">HOME SCREEN 1</p>
