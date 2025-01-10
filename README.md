@@ -226,7 +226,7 @@
 <h1 align="center" style="font-size:3vh; font-weight:700;">📸 SCREENSHOTS / OSTALI RESURSI 📸</h1>
 
 <!-- HOME SCREEN --->
-<p align="center" style="font-size:10vw;">WEB SITE: </p>
+<p align="center" font-size="2.5vw" font-weight="800">WEB SITE: </p>
 <a align="center" href="https://vip-bingo.web.app/" target="_blank">ViP - Bingo d.o.o</a>
 <div style="display: flex; flex-direction:column; font-weight:800;">
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
