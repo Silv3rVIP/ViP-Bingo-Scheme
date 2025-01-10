@@ -229,7 +229,9 @@
 <div style="display: flex; flex-direction:column; font-weight:800;">
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
     <p align="center" style="font-size:5vw; margin-bottom: 0; min-width:50%;">WEB SITE:</p>
-    <a align="center" href="https://vip-bingo.web.app/">ViP - Bingo d.o.o</a>
+    <p align="center" style="font-size:5vw; margin-bottom: 0; min-width:50%;">
+      <a align="center" href="https://vip-bingo.web.app/" target="_blank">ViP - Bingo d.o.o</a>
+    </p>
   </div>
   <p align="center" style="font-size:2.5vw; margin-bottom: 0; min-width:50%;">ANDROID APP:</p>
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
