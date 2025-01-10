@@ -226,10 +226,12 @@
 <h1 align="center" style="font-size:3vh; font-weight:700;">📸 SCREENSHOTS / OSTALI RESURSI 📸</h1>
 
 <!-- HOME SCREEN --->
+<p align="center">
+# WEB SITE: 
+</p>
+<a align="center" href="https://vip-bingo.web.app/" target="_blank">ViP - Bingo d.o.o</a>
 <div style="display: flex; flex-direction:column; font-weight:800;">
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
-    ### WEB SITE:
-    <p align="center" style="font-size:5vw; margin-bottom: 0; min-width:50%;">### WEB SITE:</p>
     <p align="center" style="font-size:5vw; margin-bottom: 0; min-width:50%;">
       <a align="center" href="https://vip-bingo.web.app/" target="_blank">ViP - Bingo d.o.o</a>
     </p>
