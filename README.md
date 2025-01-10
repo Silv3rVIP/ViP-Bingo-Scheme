@@ -225,22 +225,31 @@
 <a name="screenshots"></a>
 <h1 align="center" style="font-size:3vh; font-weight:700;">📸 SCREENSHOTS / OSTALI RESURSI 📸</h1>
 
-<p align="center" style="font-size:5vw; font-weight:700; ">
-### WEB SITE:
-***[ViP - Bingo d.o.o](https://vip-bingo.web.app/ "ViP - Bingo d.o.o")***
-</p>
+<!-- <div align="center">
 
+### WEB SITE:
+
+***[ViP - Bingo d.o.o](https://vip-bingo.web.app/ "ViP - Bingo d.o.o")***
+
+</div> -->
+
+<!--- WEB SITE --->
+<a name="website"></a>
+<h3 align="center" style="font-size:3vh; font-weight:700;">WEB SITE</h3>
+
+<div align="center">
+<a href="https://vip-bingo.web.app/" style="font-size:3vh; font-weight:800">ViP - Bingo d.o.o</a>
+</div>
+
+<br>
+<hr style="height:0.1em; width:80%">
+
+<a name="website"></a>
+<h3 align="center" style="font-size:3vh; font-weight:700;">ANDROID APP</h3>
 
 <!-- HOME SCREEN --->
-<p align="center" font-size="2.5vw" font-weight="800">WEB SITE: </p>
-<a align="center" href="https://vip-bingo.web.app/" target="_blank">ViP - Bingo d.o.o</a>
-<div style="display: flex; flex-direction:column; font-weight:800;">
-  <div style="display: flex; justify-content: space-around; flex-direction: row;">
-    <p align="center" style="font-size:5vw; margin-bottom: 0; min-width:50%;">
-      <a align="center" href="https://vip-bingo.web.app/" target="_blank">ViP - Bingo d.o.o</a>
-    </p>
-  </div>
-  <p align="center" style="font-size:2.5vw; margin-bottom: 0; min-width:50%;">### ANDROID APP:</p>
+<div align="center" style="display: flex; flex-direction:column; font-weight:800;">
+
   <div style="display: flex; justify-content: space-around; flex-direction: row;">
     <p align="center" style="font-size:2.5vw; margin-bottom: 0; min-width:50%;">HOME SCREEN 1</p>
     <p align="center" style="font-size:2.5vw; margin-bottom: 0; min-width:50%;">HOME SCREEN 2</p>
