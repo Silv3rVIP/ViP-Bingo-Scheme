@@ -227,9 +227,9 @@
 
 <!-- HOME SCREEN --->
 <div align="center">
-  <h3 align="center" style="font-size:2.5vw; font-weight:600">
-    ### WEB SITE:
-  </h3>  
+  <h3 align="center" style="font-size:2.8vh; font-weight:600;">
+    WEB SITE:
+  </h3>
     <a align="center" style="font-size:2.5vw; font-weight:600" width="100%" href="https://vip-bingo.web.app/" target="\_blank">
         <p align="center" style="font-size:2.5vw; font-weight:600">
         ViP - Bingo d.o.o
